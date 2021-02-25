@@ -7,7 +7,7 @@ import config as cfg
 
 def run(dset):
     input_path = f"{cfg.INPUT_DIR}/{dset}"
-    output_path = f"{cfg.OUTPUT_DIR}/{dset}.txt"
+    output_path = f"{cfg.OUTPUT_DIR}/{dset}"
 
     input_data = data_reader.read_input(input_path)
     output_data = solver.solve(*input_data)

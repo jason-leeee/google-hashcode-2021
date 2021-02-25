@@ -6,24 +6,40 @@ import config as cfg
 
 def read_input(filepath):
     with open(filepath, "r") as fread:
-        nr_pizzas, nr_t2, nr_t3, nr_t4 = map(int, fread.readline().strip().split(' '))
-        nr_dict = {
-            'pizzas': nr_pizzas,
-            't2': nr_t2,
-            't3': nr_t3,
-            't4': nr_t4,
+        duration, num_intersections, num_streets, num_cars, bonus = map(int, fread.readline().strip().split(" "))
+        var_dict = {
+            'duration': duration,
+            'num_inters': num_intersections,
+            'num_streets': num_streets,
+            'num_cars': num_cars,
+            "bonus": bonus
         }
 
-        pizzas = []
-        for line in fread.readlines():
-            line_list = line.strip().split(' ')
-            nr_ingredients = int(line_list[0])
-            ingredients = set(line_list[1:])
-            pizzas.append((nr_ingredients, ingredients))
+        lines = fread.read().splitlines()
 
-    return nr_dict, pizzas
+        lines_street = lines[:num_streets]
+        streets = []
+        for line in lines_street:
+            seps = line.split(" ")
+            streets.append({
+                "start_inter": int(seps[0]),
+                "end_inter": int(seps[1]),
+                "street_name": seps[2],
+                "cost": int(seps[3])
+            })
+
+        lines_cars = lines[num_streets:]
+        cars = []
+        for line in lines_cars:
+            seps = line.split(" ")
+            cars.append({
+                "num_streets": int(seps[0]),
+                "streets": seps[1:]
+            })
+
+    return var_dict, streets, cars
 
 
 if __name__ == "__main__":
-    filepath = "inputs/a_example"
+    filepath = "inputs/a.txt"
     print(read_input(filepath))

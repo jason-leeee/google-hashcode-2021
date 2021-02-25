@@ -10,7 +10,7 @@ import config as cfg
 from helper import *
 
 
-def solve(__TODO__):
+def solve(var_dict, streets, cars):
     """
     Args:
         arg 1: ???
@@ -20,4 +20,4 @@ def solve(__TODO__):
         ret: ???
     """
 
-    return __TODO__
+    return schedules

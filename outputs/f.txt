@@ -1,0 +1,8891 @@
+1662
+0
+1
+cd-a 1992
+1
+2
+dab-b 1707
+ehb-b 284
+2
+6
+bi-c 41
+di-c 41
+bih-c 41
+dgc-c 83
+fcd-c 1660
+dgj-c 124
+3
+6
+cd-d 97
+bjg-d 48
+cbd-d 48
+hcj-d 97
+ii-d 923
+bcb-d 777
+4
+3
+d-e 28
+cba-e 28
+hic-e 1935
+5
+7
+e-f 110
+bc-f 110
+ff-f 110
+bda-f 110
+jcc-f 110
+jbb-f 221
+bdjf-f 1217
+6
+6
+bfg-g 117
+ehc-g 234
+iee-g 468
+eie-g 468
+gic-g 585
+bedj-g 117
+7
+1
+bfa-h 1992
+8
+3
+geg-i 1585
+gie-i 365
+bahi-i 40
+9
+4
+bi-j 29
+ce-j 29
+heg-j 146
+fbj-j 1786
+10
+2
+bdi-ba 996
+dhf-ba 996
+11
+8
+bae-bb 81
+gc-bb 40
+bcb-bb 81
+bee-bb 894
+cd-bb 121
+bcea-bb 81
+bcef-bb 447
+bgf-bb 243
+12
+6
+ddf-bc 62
+ccj-bc 124
+dgf-bc 933
+baid-bc 62
+hbf-bc 498
+daa-bc 311
+13
+3
+cch-bd 871
+cjb-bd 124
+bejh-bd 996
+14
+4
+fec-be 144
+bbbj-be 253
+babg-be 181
+beai-be 1412
+15
+2
+hi-bf 1770
+dh-bf 221
+16
+7
+bi-bg 132
+jf-bg 132
+iag-bg 132
+fib-bg 132
+gge-bg 265
+bdii-bg 1062
+baae-bg 132
+17
+3
+hjd-bh 56
+ihi-bh 1707
+bgeh-bh 227
+18
+5
+bc-bi 10
+feh-bi 21
+hej-bi 21
+fic-bi 1028
+babg-bi 908
+19
+8
+bc-bj 306
+ch-bj 153
+dg-bj 153
+db-bj 306
+dhf-bj 459
+cii-bj 306
+hcj-bj 153
+bdbf-bj 153
+20
+4
+cd-ca 99
+bai-ca 99
+dfg-ca 199
+gjh-ca 1593
+21
+3
+dcc-cb 498
+did-cb 498
+edb-cb 996
+22
+4
+ff-cc 249
+dgf-cc 747
+jgi-cc 249
+badc-cc 747
+23
+6
+bhd-cd 155
+fae-cd 31
+dbg-cd 996
+gfa-cd 31
+ffb-cd 684
+bcaj-cd 93
+24
+4
+bi-ce 221
+ef-ce 221
+jgf-ce 442
+jag-ce 1106
+25
+5
+cc-cf 43
+fhg-cf 86
+eac-cf 1385
+bbci-cf 86
+def-cf 389
+26
+7
+ca-cg 90
+eh-cg 181
+chb-cg 452
+deg-cg 181
+deb-cg 181
+bd-cg 633
+hhc-cg 271
+27
+6
+cd-ch 124
+bjd-ch 249
+dji-ch 373
+ddb-ch 249
+hch-ch 249
+jgg-ch 747
+28
+5
+hif-ci 58
+gbg-ci 175
+befi-ci 58
+bffg-ci 1259
+hfh-ci 439
+29
+3
+egd-cj 132
+fbi-cj 132
+bfgd-cj 1726
+30
+8
+ea-da 51
+bhd-da 357
+eej-da 153
+bdf-da 255
+gda-da 51
+fai-da 408
+bcei-da 408
+beib-da 306
+31
+7
+bc-db 68
+cd-db 137
+gi-db 68
+bgj-db 68
+cbh-db 206
+cfj-db 68
+bbde-db 1373
+32
+6
+ecg-dc 21
+iag-dc 10
+jbf-dc 10
+iej-dc 1733
+ifh-dc 107
+bbgj-dc 107
+33
+3
+fc-dd 332
+dfg-dd 332
+babg-dd 1328
+34
+4
+di-de 996
+bhe-de 332
+ghj-de 332
+eih-de 332
+35
+5
+gc-df 28
+igi-df 317
+iei-df 28
+ibf-df 28
+bfgb-df 1587
+36
+8
+cee-dg 81
+bed-dg 20
+hah-dg 548
+bcii-dg 548
+bdfc-dg 60
+bcag-dg 182
+bebe-dg 406
+bgfe-dg 142
+37
+5
+dc-dh 13
+db-dh 13
+hha-dh 467
+gcd-dh 41
+bagf-dh 1456
+38
+1
+haf-di 1992
+39
+3
+cbh-dj 796
+ef-dj 796
+gdb-dj 398
+40
+6
+dbb-ea 181
+cgg-ea 181
+jjh-ea 543
+jff-ea 362
+eee-ea 362
+fda-ea 362
+41
+3
+hac-eb 56
+cdi-eb 796
+bbfc-eb 1138
+42
+5
+fi-ec 239
+fc-ec 79
+ege-ec 318
+ci-ec 79
+cdc-ec 1274
+43
+5
+eb-ed 90
+ech-ed 271
+edf-ed 90
+bcia-ed 1177
+bfdc-ed 362
+44
+3
+ejg-ee 332
+cfb-ee 664
+bacc-ee 996
+45
+7
+bgd-ef 60
+bgb-ef 60
+cij-ef 120
+egh-ef 60
+ige-ef 784
+cih-ef 664
+beeh-ef 241
+46
+5
+bcd-eg 44
+bdj-eg 44
+cbg-eg 44
+ffd-eg 44
+ggg-eg 1814
+47
+5
+bjb-eh 108
+fdd-eh 36
+bbfg-eh 760
+gdh-eh 905
+bbei-eh 181
+48
+6
+bb-ei 86
+cbh-ei 86
+dff-ei 86
+bbje-ei 86
+jfj-ei 1385
+bcjf-ei 259
+49
+3
+cd-ej 206
+jia-ej 68
+baig-ej 1717
+50
+6
+bcb-fa 56
+hg-fa 56
+bc-fa 170
+bhg-fa 56
+jji-fa 227
+dhe-fa 1422
+51
+3
+bdc-fb 1054
+dfa-fb 585
+bcch-fb 351
+52
+5
+jb-fc 28
+bcj-fc 28
+eab-fc 28
+fif-fc 540
+bfch-fc 1365
+53
+4
+je-fd 498
+dd-fd 498
+daf-fd 498
+dhe-fd 498
+54
+1
+jic-fe 1992
+55
+7
+ic-ff 66
+bdf-ff 66
+dbd-ff 132
+bed-ff 132
+cje-ff 265
+bdcg-ff 132
+gb-ff 1195
+56
+1
+bfaf-fg 1992
+57
+7
+d-fh 249
+bdb-fh 124
+ccb-fh 249
+jh-fh 124
+jie-fh 124
+jjd-fh 124
+bejb-fh 996
+58
+3
+fg-fi 153
+hee-fi 229
+bfdg-fi 1608
+59
+7
+ff-fj 117
+bea-fj 117
+dbg-fj 937
+ddg-fj 117
+hfh-fj 117
+ifd-fj 351
+bcha-fj 234
+60
+6
+cg-ga 68
+cih-ga 34
+dac-ga 68
+eah-ga 34
+bi-ga 480
+fga-ga 1305
+61
+2
+bbeb-gb 104
+bbjc-gb 1887
+62
+6
+e-gc 12
+j-gc 12
+bga-gc 12
+eie-gc 350
+bdfa-gc 626
+gge-gc 977
+63
+8
+dbf-gd 60
+cfj-gd 301
+dai-gd 241
+icd-gd 120
+je-gd 60
+daj-gd 301
+gfb-gd 60
+bfgc-gd 845
+64
+2
+g-ge 996
+dfi-ge 996
+65
+1
+cgh-gf 1992
+66
+5
+jdj-gg 10
+cdh-gg 725
+jhg-gg 40
+idf-gg 30
+bfjf-gg 1184
+67
+3
+bh-gh 181
+jci-gh 181
+bddh-gh 1629
+68
+3
+cbe-gi 153
+bcff-gi 1736
+ch-gi 102
+69
+3
+edh-gj 398
+gjj-gj 1195
+baad-gj 398
+70
+3
+bda-ha 199
+db-ha 1593
+ecc-ha 199
+71
+2
+efh-hb 1385
+iaa-hb 606
+72
+4
+gg-hc 58
+cif-hc 117
+dbf-hc 527
+ejc-hc 1288
+73
+0
+74
+7
+bcd-he 58
+bgi-he 351
+gij-he 175
+gig-he 58
+bcjc-he 937
+bebb-he 175
+hc-he 234
+75
+4
+da-hf 199
+dah-hf 199
+hie-hf 996
+bdbc-hf 597
+76
+4
+dfj-hg 71
+bja-hg 1209
+gbd-hg 355
+cgj-hg 355
+77
+7
+bdh-hh 142
+caa-hh 71
+cae-hh 284
+bjb-hh 426
+jae-hh 142
+gcj-hh 782
+beic-hh 142
+78
+5
+fa-hi 10
+bac-hi 10
+ihf-hi 75
+baec-hi 947
+iba-hi 947
+79
+3
+di-hj 21
+gfg-hj 175
+jfc-hj 1794
+80
+4
+di-ia 442
+ccc-ia 221
+bdjd-ia 442
+bfeh-ia 885
+81
+4
+gia-ib 569
+ghd-ib 853
+dea-ib 284
+dad-ib 284
+82
+3
+cgi-ic 132
+fdf-ic 265
+bedh-ic 1593
+83
+4
+ej-id 27
+ebd-id 27
+gbg-id 109
+eab-id 1828
+84
+5
+bjd-ie 398
+dej-ie 398
+haj-ie 398
+fbb-ie 398
+eeh-ie 398
+85
+3
+di-if 66
+bcge-if 1394
+bfce-if 531
+86
+2
+egf-ig 664
+baif-ig 1328
+87
+3
+bba-ih 181
+cgh-ih 1448
+bcfj-ih 362
+88
+6
+chf-ii 1252
+eig-ii 56
+bacd-ii 56
+dgc-ii 142
+bacj-ii 398
+bgfi-ii 85
+89
+4
+dbi-ij 199
+fbc-ij 199
+bcd-ij 996
+ife-ij 597
+90
+3
+bei-ja 94
+fef-ja 94
+hij-ja 1802
+91
+4
+jc-jb 498
+bhe-jb 498
+bc-jb 498
+ehi-jb 498
+92
+6
+hj-jc 13
+gbe-jc 20
+gii-jc 6
+fci-jc 6
+babi-jc 1071
+bbjg-jc 872
+93
+2
+cae-jd 996
+fhj-jd 996
+94
+6
+bbi-je 57
+bi-je 433
+fcf-je 115
+bfc-je 692
+gdf-je 490
+bfgb-je 202
+95
+3
+dfc-jf 284
+iae-jf 569
+gbd-jf 1138
+96
+3
+ec-jg 15
+beb-jg 47
+daf-jg 1929
+97
+6
+ei-jh 9
+ecj-jh 9
+bcbf-jh 37
+dai-jh 75
+hib-jh 151
+bbfg-jh 1708
+98
+5
+gbe-ji 68
+idd-ji 137
+bccj-ji 412
+bdjh-ji 1167
+beaa-ji 206
+99
+3
+dej-jj 498
+bcee-jj 896
+fgf-jj 597
+100
+5
+bfg-baa 93
+dfi-baa 62
+fhg-baa 155
+efg-baa 809
+dig-baa 871
+101
+4
+chf-bab 896
+ede-bab 398
+jhg-bab 199
+eic-bab 498
+102
+5
+hj-bac 104
+da-bac 52
+hfi-bac 52
+gja-bac 681
+bfe-bac 1100
+103
+3
+bfi-bad 221
+bha-bad 664
+jid-bad 1106
+104
+4
+cd-bae 68
+bdga-bae 1648
+dgj-bae 137
+ceg-bae 137
+105
+5
+cgb-baf 71
+cbg-baf 71
+bcb-baf 142
+cj-baf 284
+bdbh-baf 1422
+106
+7
+bcc-bag 221
+dad-bag 221
+ede-bag 221
+fic-bag 221
+bbfi-bag 221
+baab-bag 221
+bfce-bag 664
+107
+6
+deg-bah 258
+ddf-bah 19
+hbf-bah 258
+bbcc-bah 79
+ifd-bah 239
+gjh-bah 1135
+108
+2
+bda-bai 733
+cfj-bai 1258
+109
+6
+db-baj 199
+bda-baj 398
+ddb-baj 199
+chf-baj 398
+eg-baj 597
+cjg-baj 199
+110
+5
+hi-bba 104
+je-bba 209
+dic-bba 209
+gdc-bba 838
+fbe-bba 629
+111
+4
+bdh-bbb 142
+edb-bbb 284
+fdh-bbb 853
+d-bbb 711
+112
+5
+dbb-bbc 18
+jje-bbc 164
+gbg-bbc 18
+chf-bbc 1736
+dgb-bbc 54
+113
+2
+bja-bbd 996
+gca-bbd 996
+114
+3
+cie-bbe 569
+ehd-bbe 1138
+cb-bbe 284
+115
+5
+fj-bbf 82
+bej-bbf 20
+dfc-bbf 61
+bage-bbf 698
+bei-bbf 1129
+116
+6
+cbd-bbg 28
+bbbj-bbg 168
+gdc-bbg 533
+eba-bbg 168
+eg-bbg 280
+iff-bbg 813
+117
+3
+ehi-bbh 53
+gjh-bbh 68
+bacc-bbh 1870
+118
+9
+bca-bbi 13
+cea-bbi 13
+beb-bbi 13
+ib-bbi 13
+gfd-bbi 104
+cbb-bbi 26
+ige-bbi 13
+bech-bbi 26
+beeh-bbi 1770
+119
+7
+bbf-bbj 9
+gjh-bbj 9
+eh-bbj 90
+baja-bbj 27
+bbag-bbj 90
+fag-bbj 1748
+ige-bbj 18
+120
+6
+cc-bca 153
+bae-bca 153
+eae-bca 612
+gae-bca 306
+cji-bca 612
+gaf-bca 153
+121
+4
+bbdg-bcb 417
+fba-bcb 1220
+bdea-bcb 32
+bbgc-bcb 321
+122
+7
+bjd-bcc 14
+jg-bcc 14
+gfi-bcc 28
+hgb-bcc 14
+bebg-bcc 28
+bbab-bcc 298
+bbff-bcc 1593
+123
+5
+gc-bcd 79
+ddj-bcd 239
+jec-bcd 398
+eed-bcd 1195
+iie-bcd 79
+124
+8
+bb-bce 42
+ccc-bce 42
+fed-bce 42
+gef-bce 593
+edi-bce 339
+bi-bce 339
+bagd-bce 296
+gc-bce 296
+125
+4
+deg-bcf 332
+cea-bcf 830
+ddj-bcf 498
+gih-bcf 332
+126
+7
+di-bcg 221
+dbg-bcg 442
+cah-bcg 221
+bhj-bcg 221
+g-bcg 442
+hcj-bcg 221
+dgg-bcg 221
+127
+6
+bfc-bch 47
+dfd-bch 47
+ecb-bch 284
+gad-bch 711
+fbh-bch 664
+bgbf-bch 237
+128
+7
+bbc-bci 16
+fi-bci 16
+fag-bci 49
+bagb-bci 329
+bbhe-bci 1333
+bcbc-bci 181
+bbf-bci 65
+129
+7
+bbf-bcj 88
+bah-bcj 132
+cjh-bcj 44
+eac-bcj 44
+iff-bcj 1549
+cjg-bcj 44
+icj-bcj 88
+130
+6
+ia-bda 19
+fbe-bda 19
+dhg-bda 193
+eh-bda 174
+ffa-bda 1295
+dfj-bda 290
+131
+8
+bfc-bdb 51
+djh-bdb 153
+bhb-bdb 102
+cda-bdb 51
+fib-bdb 51
+jbg-bdb 102
+efd-bdb 1123
+deh-bdb 357
+132
+9
+bec-bdc 23
+fee-bdc 764
+bbfe-bdc 92
+bbjh-bdc 138
+bbah-bdc 69
+fdc-bdc 231
+jbg-bdc 162
+cfc-bdc 46
+bfea-bdc 463
+133
+5
+bja-bdd 53
+efa-bdd 53
+bcgc-bdd 1292
+bjf-bdd 53
+bece-bdd 538
+134
+6
+bdh-bde 142
+hhi-bde 142
+iah-bde 569
+bba-bde 284
+gge-bde 569
+beec-bde 284
+135
+6
+hc-bdf 20
+bhe-bdf 20
+gbf-bdf 146
+gea-bdf 419
+hcg-bdf 985
+bbab-bdf 398
+136
+8
+bcc-bdg 19
+ch-bdg 39
+dhi-bdg 39
+jdg-bdg 156
+bahh-bdg 1015
+djj-bdg 39
+cha-bdg 136
+bbij-bdg 546
+137
+4
+edg-bdh 332
+feh-bdh 498
+ce-bdh 249
+jjg-bdh 913
+138
+6
+ich-bdi 44
+gci-bdi 354
+iic-bdi 1482
+bcfj-bdi 22
+bffi-bdi 44
+jbe-bdi 44
+139
+7
+ffb-bdj 24
+igb-bdj 24
+igg-bdj 48
+bbbh-bdj 48
+jfe-bdj 768
+geh-bdj 984
+hhc-bdj 96
+140
+4
+dgb-bea 249
+dgc-bea 1494
+cdh-bea 124
+fif-bea 124
+141
+8
+cbg-beb 68
+cbe-beb 34
+fe-beb 34
+dci-beb 137
+edh-beb 103
+ffd-beb 34
+djg-beb 137
+hia-beb 1442
+142
+8
+hj-bec 357
+eei-bec 127
+bdh-bec 25
+ii-bec 229
+ica-bec 51
+bdei-bec 561
+hff-bec 25
+hea-bec 612
+143
+6
+bhc-bed 42
+cfa-bed 42
+ica-bed 127
+feh-bed 127
+cd-bed 1441
+begd-bed 211
+144
+5
+cfa-bee 6
+gjd-bee 45
+dfg-bee 19
+bbej-bee 13
+bgbe-bee 1907
+145
+4
+bjd-bef 189
+dai-bef 853
+jei-bef 189
+fgj-bef 758
+146
+5
+bja-beg 199
+ea-beg 199
+bef-beg 796
+fei-beg 597
+hgd-beg 199
+147
+9
+hi-beh 224
+ef-beh 56
+bab-beh 140
+cia-beh 84
+ih-beh 28
+ccg-beh 56
+ieh-beh 1262
+gdd-beh 28
+jbj-beh 112
+148
+5
+fge-bei 481
+jbi-bei 87
+bcgi-bei 350
+becg-bei 21
+jca-bei 1050
+149
+5
+cdi-bej 64
+bdb-bej 64
+dbi-bej 128
+bec-bej 449
+fif-bej 1285
+150
+5
+ddd-bfa 124
+cjd-bfa 1245
+egg-bfa 249
+cdf-bfa 249
+ifi-bfa 124
+151
+2
+fda-bfb 104
+bdji-bfb 1887
+152
+9
+dhb-bfc 41
+cdb-bfc 20
+fbb-bfc 20
+cei-bfc 41
+fcb-bfc 41
+ifh-bfc 83
+gbi-bfc 125
+dcb-bfc 1446
+bafi-bfc 167
+153
+4
+bif-bfd 221
+cie-bfd 664
+haa-bfd 664
+jgi-bfd 442
+154
+5
+cgh-bfe 239
+hff-bfe 39
+baea-bfe 677
+dch-bfe 796
+gbc-bfe 239
+155
+4
+fdh-bff 99
+gfe-bff 697
+eec-bff 896
+bcie-bff 298
+156
+8
+bef-bfg 33
+hj-bfg 166
+fh-bfg 33
+dae-bfg 33
+be-bfg 33
+efi-bfg 99
+hhe-bfg 199
+bgac-bfg 1394
+157
+4
+baf-bfh 332
+bae-bfh 332
+eaa-bfh 996
+gcj-bfh 332
+158
+7
+bacf-bfi 4
+ich-bfi 9
+idg-bfi 38
+jhe-bfi 4
+gaa-bfi 660
+ecj-bfi 4
+bgci-bfi 1268
+159
+5
+ded-bfj 110
+gce-bfj 110
+gif-bfj 332
+jjj-bfj 774
+bii-bfj 664
+160
+3
+dij-bga 60
+efe-bga 362
+hbd-bga 1569
+161
+6
+dff-bgb 29
+hea-bgb 1516
+bahe-bgb 59
+bcga-bgb 29
+bedd-bgb 118
+cgc-bgb 237
+162
+7
+fd-bgc 117
+cdb-bgc 117
+ehc-bgc 117
+cff-bgc 117
+ffi-bgc 117
+cgd-bgc 585
+bdeh-bgc 820
+163
+5
+f-bgd 94
+gd-bgd 189
+edg-bgd 1138
+dbj-bgd 94
+bgdh-bgd 474
+164
+3
+d-bge 181
+hci-bge 905
+jif-bge 905
+165
+4
+bie-bgf 104
+bd-bgf 104
+baih-bgf 104
+iaa-bgf 1677
+166
+6
+id-bgg 22
+babe-bgg 44
+ehg-bgg 664
+bcaa-bgg 664
+heh-bgg 486
+bdde-bgg 110
+167
+5
+dbg-bgh 896
+cej-bgh 199
+cgg-bgh 99
+be-bgh 199
+bfgh-bgh 597
+168
+8
+cej-bgi 28
+baa-bgi 56
+eij-bgi 140
+bhh-bgi 196
+bc-bgi 56
+cbi-bgi 505
+dda-bgi 28
+daj-bgi 981
+169
+5
+djh-bgj 221
+hbh-bgj 221
+jai-bgj 442
+hch-bgj 664
+bffe-bgj 442
+170
+8
+fh-bha 83
+ccd-bha 41
+ddd-bha 41
+edd-bha 41
+bff-bha 41
+bde-bha 83
+bi-bha 124
+gi-bha 1535
+171
+6
+jh-bhb 56
+cda-bhb 113
+ih-bhb 227
+hhd-bhb 1195
+fcb-bhb 170
+bfbi-bhb 227
+172
+6
+bfe-bhc 136
+edf-bhc 54
+eje-bhc 54
+gfg-bhc 54
+bbfd-bhc 1309
+bagf-bhc 382
+173
+4
+bcb-bhd 153
+hj-bhd 612
+gii-bhd 306
+eed-bhd 919
+174
+5
+bgj-bhe 17
+chd-bhe 51
+ebi-bhe 17
+cfe-bhe 173
+daa-bhe 1732
+175
+6
+dgi-bhf 209
+ech-bhf 419
+cgi-bhf 104
+ca-bhf 104
+jga-bhf 104
+bci-bhf 1048
+176
+7
+cbg-bhg 33
+bci-bhg 33
+cfi-bhg 66
+baf-bhg 99
+cdi-bhg 1460
+iga-bhg 166
+babb-bhg 132
+177
+4
+cbc-bhh 110
+cch-bhh 442
+efe-bhh 1106
+bai-bhh 332
+178
+5
+cdb-bhi 56
+eaj-bhi 1081
+ibh-bhi 626
+gbb-bhi 170
+bacb-bhi 56
+179
+7
+hg-bhj 76
+fha-bhj 114
+ghd-bhj 153
+cb-bhj 76
+dbf-bhj 38
+bafb-bhj 1455
+hbc-bhj 76
+180
+4
+hi-bia 543
+cch-bia 1086
+dac-bia 181
+bjg-bia 181
+181
+3
+hjj-bib 10
+fhc-bib 21
+eae-bib 1959
+182
+4
+dc-bic 284
+baa-bic 853
+hdc-bic 284
+eee-bic 569
+183
+4
+dec-bid 332
+beh-bid 664
+bef-bid 664
+bajd-bid 332
+184
+11
+bbc-bie 79
+bae-bie 79
+bef-bie 79
+dbe-bie 79
+bcc-bie 159
+cdc-bie 79
+cfe-bie 79
+hdd-bie 557
+eig-bie 239
+bde-bie 318
+bcai-bie 239
+185
+5
+cji-bif 19
+je-bif 9
+bahf-bif 9
+babf-bif 614
+bgcg-bif 1337
+186
+2
+deg-big 1422
+bdde-big 569
+187
+4
+ccj-bih 27
+dcf-bih 332
+hef-bih 55
+bcff-bih 1577
+188
+5
+dfa-bii 234
+bga-bii 351
+ejd-bii 351
+caj-bii 117
+bcej-bii 937
+189
+6
+bcj-bij 90
+eab-bij 90
+cha-bij 905
+gfi-bij 90
+cia-bij 724
+ba-bij 90
+190
+3
+dig-bja 8
+ded-bja 159
+dca-bja 1823
+191
+4
+db-bjb 239
+bbee-bjb 956
+bcdb-bjb 637
+fed-bjb 159
+192
+5
+ibe-bjc 379
+bagc-bjc 94
+eia-bjc 94
+baad-bjc 1328
+ggh-bjc 94
+193
+5
+di-bjd 14
+gd-bjd 14
+bij-bjd 28
+hdg-bjd 1530
+ghb-bjd 404
+194
+4
+dgf-bje 28
+eja-bje 28
+ecd-bje 1739
+cga-bje 196
+195
+6
+hie-bjf 5
+hii-bjf 30
+ecg-bjf 164
+baff-bjf 1550
+bccc-bjf 5
+hic-bjf 236
+196
+3
+cec-bjg 332
+dih-bjg 996
+df-bjg 664
+197
+6
+bcb-bjh 442
+eah-bjh 110
+cd-bjh 996
+gfd-bjh 110
+jeb-bjh 221
+djg-bjh 110
+198
+4
+dbg-bji 48
+cgh-bji 48
+fdj-bji 48
+beeb-bji 1846
+199
+4
+jhe-bjj 144
+edg-bjj 14
+gci-bjj 274
+baad-bjj 1558
+200
+6
+dhc-caa 124
+jgd-caa 124
+ecb-caa 498
+bafd-caa 373
+hfg-caa 249
+djj-caa 622
+201
+6
+bdg-cab 1182
+daf-cab 62
+bef-cab 124
+cjd-cab 435
+jca-cab 62
+jbg-cab 124
+202
+5
+cgd-cac 36
+djc-cac 181
+bbdh-cac 108
+dbf-cac 869
+fid-cac 796
+203
+3
+edd-cad 332
+ege-cad 664
+icg-cad 996
+204
+8
+cci-cae 38
+bea-cae 38
+gdi-cae 76
+chb-cae 114
+bcb-cae 612
+jcd-cae 153
+bccg-cae 459
+hhb-cae 498
+205
+3
+bafb-caf 1880
+gag-caf 89
+ghc-caf 22
+206
+4
+bbg-cag 83
+cie-cag 1411
+fbi-cag 249
+ebb-cag 249
+207
+6
+cce-cah 189
+fde-cah 94
+fac-cah 189
+ih-cah 189
+bahc-cah 284
+bebe-cah 1043
+208
+2
+jda-cai 996
+gdb-cai 996
+209
+4
+jh-caj 199
+eba-caj 199
+eji-caj 796
+ghh-caj 796
+210
+4
+bfi-cba 8
+bccb-cba 65
+bbjf-cba 1218
+bgdd-cba 699
+211
+5
+ca-cbb 132
+be-cbb 265
+da-cbb 132
+cge-cbb 796
+ihc-cbb 664
+212
+2
+efg-cbc 1330
+bcdg-cbc 661
+213
+8
+ehe-cbd 18
+bif-cbd 18
+chb-cbd 18
+eag-cbd 66
+bcdc-cbd 113
+cec-cbd 37
+jej-cbd 18
+jfc-cbd 1697
+214
+1
+bbcc-cbe 1992
+215
+3
+ceb-cbf 498
+cdj-cbf 498
+bff-cbf 996
+216
+4
+bdg-cbg 17
+hjj-cbg 51
+bbfi-cbg 841
+becj-cbg 1081
+217
+5
+ej-cbh 147
+bfg-cbh 73
+caj-cbh 73
+bhi-cbh 1328
+jhi-cbh 368
+218
+3
+bdi-cbi 23
+ede-cbi 1922
+ebh-cbi 46
+219
+5
+db-cbj 181
+dcf-cbj 271
+hi-cbj 181
+jec-cbj 90
+gjj-cbj 1267
+220
+6
+cbe-cca 181
+bbi-cca 181
+ihg-cca 181
+ehi-cca 181
+bbdb-cca 724
+eea-cca 543
+221
+6
+bjj-ccb 398
+eig-ccb 199
+ejj-ccb 398
+d-ccb 199
+ddd-ccb 398
+jeh-ccb 398
+222
+3
+eag-ccc 527
+bcda-ccc 234
+jfh-ccc 1230
+223
+6
+cjf-ccd 249
+ecd-ccd 166
+dhh-ccd 83
+eae-ccd 83
+feh-ccd 249
+bajb-ccd 1162
+224
+4
+bdc-cce 221
+daf-cce 221
+hdf-cce 221
+bceh-cce 1328
+225
+7
+dca-ccf 206
+hcc-ccf 8
+ghd-ccf 8
+jeg-ccf 8
+ihi-ccf 1621
+ga-ccf 129
+bfdd-ccf 8
+226
+7
+bih-ccg 199
+fhh-ccg 199
+ide-ccg 199
+hde-ccg 199
+ijd-ccg 398
+bahi-ccg 597
+hjh-ccg 199
+227
+4
+bhe-cch 49
+baaf-cch 639
+ice-cch 24
+egd-cch 1278
+228
+4
+ceb-cci 30
+haf-cci 122
+bgbg-cci 950
+bbfd-cci 888
+229
+6
+cch-ccj 203
+eeb-ccj 325
+gdf-ccj 243
+hji-ccj 1138
+bch-ccj 40
+j-ccj 40
+230
+3
+dd-cda 569
+jae-cda 569
+ejd-cda 853
+231
+4
+fcf-cdb 34
+jaa-cdb 119
+bff-cdb 51
+ejg-cdb 1787
+232
+6
+ccj-cdc 153
+gac-cdc 76
+eb-cdc 76
+fad-cdc 612
+ddj-cdc 919
+hjg-cdc 153
+233
+2
+db-cdd 474
+bebi-cdd 1517
+234
+7
+bjb-cde 86
+fff-cde 86
+bi-cde 173
+bj-cde 86
+gge-cde 519
+hhb-cde 606
+bdia-cde 433
+235
+5
+iee-cdf 34
+fjc-cdf 1852
+badh-cdf 26
+bhj-cdf 60
+dfa-cdf 17
+236
+6
+bdf-cdg 68
+eif-cdg 13
+cid-cdg 13
+gcf-cdg 41
+dff-cdg 1758
+bfjd-cdg 96
+237
+3
+gd-cdh 11
+gfd-cdh 46
+bbja-cdh 1933
+238
+4
+deb-cdi 44
+jbc-cdi 88
+j-cdi 398
+beha-cdi 1460
+239
+3
+chh-cdj 94
+ega-cdj 1612
+hgg-cdj 284
+240
+7
+if-cea 25
+be-cea 25
+cfi-cea 51
+cac-cea 25
+gbi-cea 77
+jaj-cea 1086
+che-cea 698
+241
+6
+bch-ceb 10
+cii-ceb 10
+dfe-ceb 30
+bfj-ceb 61
+dhh-ceb 30
+bdea-ceb 1848
+242
+4
+bdg-cec 234
+bbc-cec 117
+bajb-cec 1171
+bad-cec 468
+243
+3
+cah-ced 284
+efg-ced 94
+bbgc-ced 1612
+244
+3
+eej-cee 553
+jhc-cee 110
+ic-cee 1328
+245
+4
+dab-cef 426
+bfi-cef 711
+bbec-cef 71
+bha-cef 782
+246
+4
+bfa-ceg 99
+cah-ceg 697
+iag-ceg 597
+gdg-ceg 597
+247
+4
+bje-ceh 332
+cic-ceh 332
+eeg-ceh 664
+gdd-ceh 664
+248
+5
+bfb-cei 249
+dgf-cei 498
+ehj-cei 249
+ddf-cei 249
+fhi-cei 747
+249
+8
+bda-cej 25
+ef-cej 25
+dif-cej 226
+gig-cej 25
+jej-cej 25
+bbee-cej 428
+bbeg-cej 479
+bh-cej 756
+250
+5
+eb-cfa 14
+gei-cfa 729
+hdi-cfa 98
+ice-cfa 196
+bdhb-cfa 953
+251
+7
+fc-cfb 86
+fgg-cfb 259
+g-cfb 346
+cea-cfb 173
+gje-cfb 259
+baga-cfb 173
+fhe-cfb 692
+252
+3
+eca-cfc 249
+gef-cfc 1245
+ieg-cfc 498
+253
+6
+ccg-cfd 104
+cje-cfd 314
+geb-cfd 262
+a-cfd 52
+bchd-cfd 1153
+bcdh-cfd 104
+254
+2
+jf-cfe 265
+ijc-cfe 1726
+255
+5
+egj-cff 22
+hjf-cff 67
+bafc-cff 581
+hda-cff 223
+ejg-cff 1096
+256
+4
+ej-cfg 347
+bbdg-cfg 880
+bfdb-cfg 602
+gic-cfg 162
+257
+7
+baj-cfh 10
+bee-cfh 20
+gbg-cfh 10
+cid-cfh 20
+fjh-cfh 40
+bbee-cfh 40
+cie-cfh 1848
+258
+5
+eec-cfi 173
+chd-cfi 173
+badf-cfi 173
+bcfi-cfi 346
+dhi-cfi 1125
+259
+6
+bd-cfj 73
+beb-cfj 295
+fh-cfj 73
+dib-cfj 73
+efb-cfj 73
+cfi-cfj 1401
+260
+7
+dh-cga 20
+chf-cga 120
+cah-cga 20
+cgd-cga 40
+bhb-cga 261
+chj-cga 60
+bcjf-cga 1468
+261
+5
+dch-cgb 34
+dhd-cgb 34
+da-cgb 927
+gdf-cgb 446
+deb-cgb 549
+262
+6
+fji-cgc 221
+hdb-cgc 221
+cdb-cgc 110
+ica-cgc 664
+ee-cgc 221
+hfc-cgc 553
+263
+6
+dcj-cgd 121
+dcf-cgd 1097
+bec-cgd 81
+bafi-cgd 162
+bafd-cgd 487
+bajg-cgd 40
+264
+6
+fh-cge 117
+ea-cge 117
+cci-cge 234
+bfc-cge 937
+hai-cge 117
+bba-cge 468
+265
+5
+dej-cgf 94
+fcc-cgf 822
+gie-cgf 63
+ibe-cgf 94
+bgbh-cgf 916
+266
+5
+bii-cgg 124
+bdh-cgg 249
+fhc-cgg 1245
+dib-cgg 124
+bgae-cgg 249
+267
+5
+hif-cgh 4
+cag-cgh 57
+babb-cgh 19
+bdhc-cgh 1844
+hc-cgh 66
+268
+5
+daf-cgi 20
+djh-cgi 30
+fdh-cgi 230
+ia-cgi 10
+baaa-cgi 1701
+269
+4
+eag-cgj 703
+dgg-cgj 117
+fei-cgj 234
+ifi-cgj 937
+270
+6
+dcb-cha 410
+bhi-cha 58
+dhj-cha 175
+egj-cha 410
+gfh-cha 292
+ged-cha 644
+271
+3
+eci-chb 166
+fff-chb 498
+bcbi-chb 1328
+272
+5
+fjc-chc 49
+hba-chc 99
+jfb-chc 149
+jhd-chc 1245
+bbfj-chc 448
+273
+4
+dfj-chd 147
+ebh-chd 110
+cjc-chd 110
+bfbg-chd 1623
+274
+4
+dbj-che 62
+eah-che 62
+dej-che 62
+befj-che 1805
+275
+5
+did-chf 19
+ehb-chf 9
+hfb-chf 38
+fch-chf 134
+eca-chf 1789
+276
+4
+fc-chg 153
+hja-chg 306
+iab-chg 919
+edh-chg 612
+277
+4
+ca-chh 498
+ddj-chh 498
+cid-chh 498
+cbb-chh 498
+278
+6
+cee-chi 17
+ibj-chi 52
+hga-chi 17
+bbea-chi 384
+bbc-chi 1432
+jeh-chi 87
+279
+6
+dia-chj 166
+fg-chj 332
+bgh-chj 166
+jg-chj 166
+fjd-chj 166
+hhi-chj 996
+280
+4
+eie-cia 830
+jej-cia 664
+cce-cia 166
+jj-cia 332
+281
+5
+eha-cib 990
+hh-cib 58
+bdhh-cib 683
+bcce-cib 94
+bdhb-cib 165
+282
+5
+bbi-cic 132
+igc-cic 132
+ifd-cic 132
+jce-cic 132
+dhi-cic 1460
+283
+11
+bdh-cid 75
+dfa-cid 25
+ehb-cid 75
+fcf-cid 252
+ebi-cid 126
+fic-cid 25
+dfd-cid 100
+bii-cid 25
+hgg-cid 100
+cjb-cid 1033
+cab-cid 151
+284
+3
+bih-cie 7
+jfi-cie 1338
+gg-cie 646
+285
+8
+dcb-cif 11
+dgb-cif 22
+dae-cif 22
+gfe-cif 22
+idd-cif 11
+baed-cif 11
+bbai-cif 44
+bcja-cif 1846
+286
+6
+eef-cig 142
+dge-cig 142
+hbj-cig 1138
+hdd-cig 142
+hai-cig 142
+bbac-cig 284
+287
+2
+cda-cih 24
+icg-cih 1968
+288
+6
+cah-cii 97
+dad-cii 97
+gbi-cii 242
+gc-cii 48
+ggd-cii 291
+baha-cii 1214
+289
+4
+bgi-cij 166
+cch-cij 166
+dgf-cij 1162
+ch-cij 498
+290
+6
+ead-cja 262
+ehg-cja 366
+dge-cja 52
+hcj-cja 576
+ija-cja 157
+bcaa-cja 576
+291
+4
+eei-cjb 33
+jbi-cjb 168
+bagh-cjb 135
+beba-cjb 1654
+292
+4
+db-cjc 17
+bada-cjc 297
+bcih-cjc 104
+bfgi-cjc 1572
+293
+2
+eje-cjd 295
+bdaa-cjd 1696
+294
+3
+bbi-cje 622
+cea-cje 1245
+fje-cje 124
+295
+3
+egf-cjf 332
+cgb-cjf 664
+dba-cjf 996
+296
+1
+cgb-cjg 1992
+297
+5
+dci-cjh 199
+da-cjh 398
+hhf-cjh 398
+jfd-cjh 796
+he-cjh 199
+298
+6
+bee-cji 76
+id-cji 229
+hbd-cji 153
+dbj-cji 76
+bdce-cji 1379
+bdcg-cji 76
+299
+6
+cc-cjj 24
+bgh-cjj 48
+fci-cjj 12
+jah-cjj 1478
+bcie-cjj 36
+bfeb-cjj 391
+300
+6
+fh-daa 49
+ih-daa 49
+edd-daa 66
+bbhc-daa 315
+jjb-daa 415
+bfde-daa 1095
+301
+6
+ede-dab 23
+hi-dab 1710
+icf-dab 23
+cjh-dab 23
+bace-dab 70
+bef-dab 140
+302
+5
+de-dac 104
+bgi-dac 419
+fgc-dac 209
+dce-dac 629
+iid-dac 629
+303
+4
+dab-dad 134
+gfe-dad 425
+gcb-dad 201
+gfd-dad 1231
+304
+4
+ebf-dae 18
+baaa-dae 54
+fce-dae 271
+bcib-dae 1647
+305
+7
+cha-daf 18
+badi-daf 977
+bdag-daf 9
+bddb-daf 27
+bdcb-daf 630
+fbb-daf 274
+jae-daf 54
+306
+3
+eb-dag 284
+jg-dag 284
+hcd-dag 1422
+307
+4
+cgi-dah 132
+ihj-dah 265
+ggg-dah 796
+ehc-dah 796
+308
+6
+dhc-dai 79
+chh-dai 79
+ebd-dai 79
+bafa-dai 557
+ejb-dai 159
+bchi-dai 1035
+309
+6
+dce-daj 163
+ebb-daj 32
+fae-daj 65
+fhj-daj 359
+dhe-daj 163
+geh-daj 1208
+310
+3
+bff-dba 121
+gdh-dba 203
+hhj-dba 1666
+311
+4
+dfc-dbb 7
+eaa-dbb 1920
+dgi-dbb 7
+cjb-dbb 55
+312
+2
+dah-dbc 664
+hca-dbc 1328
+313
+5
+bfg-dbd 144
+bbg-dbd 28
+ceg-dbd 28
+gcb-dbd 1414
+bdjf-dbd 375
+314
+3
+dfh-dbe 124
+dac-dbe 124
+bcaf-dbe 1743
+315
+7
+gdc-dbf 6
+gib-dbf 1845
+ei-dbf 6
+dac-dbf 13
+eid-dbf 26
+bbcb-dbf 19
+baad-dbf 73
+316
+3
+dab-dbg 111
+iag-dbg 1867
+ffg-dbg 13
+317
+5
+cid-dbh 68
+cdb-dbh 137
+caa-dbh 206
+gfj-dbh 68
+fha-dbh 1511
+318
+5
+ch-dbi 166
+eia-dbi 166
+fah-dbi 166
+edd-dbi 913
+bcaa-dbi 581
+319
+6
+cgb-dbj 73
+cg-dbj 73
+dad-dbj 442
+gjf-dbj 442
+dhd-dbj 737
+bb-dbj 221
+320
+5
+badg-dca 15
+bdii-dca 381
+jbi-dca 1289
+a-dca 7
+bda-dca 297
+321
+6
+efg-dcb 90
+gbj-dcb 135
+eda-dcb 701
+gad-dcb 792
+jia-dcb 67
+fi-dcb 203
+322
+9
+eie-dcc 21
+chf-dcc 360
+cdd-dcc 21
+di-dcc 508
+ddf-dcc 63
+jah-dcc 826
+heg-dcc 127
+fbb-dcc 21
+gdi-dcc 42
+323
+4
+gjc-dcd 199
+cg-dcd 796
+cfg-dcd 597
+gda-dcd 398
+324
+4
+bcg-dce 9
+cce-dce 18
+jef-dce 1928
+ebg-dce 36
+325
+5
+bhe-dcf 124
+fce-dcf 93
+fea-dcf 217
+cgb-dcf 311
+bbja-dcf 1245
+326
+3
+cd-dcg 132
+dca-dcg 1726
+jjj-dcg 132
+327
+5
+cjc-dch 16
+eca-dch 16
+dh-dch 50
+bdgc-dch 100
+jai-dch 1807
+328
+5
+ehi-dci 379
+cge-dci 94
+ddg-dci 284
+bcef-dci 948
+dae-dci 284
+329
+5
+bde-dcj 40
+dhd-dcj 40
+dbj-dcj 40
+jcg-dcj 1544
+begb-dcj 325
+330
+4
+dai-dda 543
+cea-dda 181
+bjj-dda 1086
+fjj-dda 181
+331
+6
+cjb-ddb 153
+ddd-ddb 306
+eig-ddb 153
+bcea-ddb 306
+bdge-ddb 766
+bbdj-ddb 306
+332
+5
+beg-ddc 135
+ia-ddc 45
+bja-ddc 452
+dac-ddc 226
+bfjb-ddc 1131
+333
+4
+bci-ddd 199
+gfa-ddd 66
+hed-ddd 66
+beef-ddd 1660
+334
+9
+ehd-dde 37
+ejf-dde 150
+gaa-dde 37
+bbj-dde 75
+ghh-dde 902
+dbe-dde 75
+fbe-dde 75
+ifj-dde 37
+d-dde 601
+335
+7
+chf-ddf 28
+jh-ddf 28
+bei-ddf 57
+id-ddf 173
+eij-ddf 461
+eb-ddf 346
+fcf-ddf 894
+336
+3
+cdi-ddg 221
+eid-ddg 1549
+cgc-ddg 221
+337
+4
+ech-ddh 183
+ef-ddh 275
+edi-ddh 30
+baa-ddh 1501
+338
+6
+cfa-ddi 284
+ehd-ddi 711
+fib-ddi 142
+bjc-ddi 142
+ef-ddi 569
+jja-ddi 142
+339
+6
+ehi-ddj 29
+ecg-ddj 1100
+haa-ddj 624
+ccd-ddj 29
+ihj-ddj 148
+dia-ddj 59
+340
+6
+dia-dea 85
+bgi-dea 171
+ejd-dea 899
+edh-dea 299
+ief-dea 449
+ebe-dea 85
+341
+6
+hjc-deb 24
+hha-deb 24
+fei-deb 221
+hgj-deb 73
+hfg-deb 172
+cbi-deb 1475
+342
+5
+ba-dec 38
+fdc-dec 229
+bg-dec 76
+bcgh-dec 344
+bfg-dec 1302
+343
+5
+ihf-ded 996
+gij-ded 753
+bdbb-ded 80
+ddc-ded 107
+jab-ded 53
+344
+5
+fhb-dee 181
+dhc-dee 181
+dej-dee 181
+fji-dee 905
+cia-dee 543
+345
+3
+ceb-def 68
+jfi-def 1648
+bajh-def 274
+346
+6
+cdh-deg 51
+cfb-deg 153
+eec-deg 357
+hia-deg 357
+fhd-deg 1021
+bceg-deg 51
+347
+4
+gcf-deh 166
+ifa-deh 332
+iji-deh 664
+dj-deh 830
+348
+2
+gjc-dei 498
+fif-dei 1494
+349
+4
+dif-dej 28
+babg-dej 32
+bcah-dej 1868
+fda-dej 61
+350
+5
+fie-dfa 585
+hab-dfa 468
+bfb-dfa 234
+eai-dfa 234
+ege-dfa 468
+351
+3
+bde-dfb 72
+ehb-dfb 181
+e-dfb 1738
+352
+7
+ddc-dfc 189
+cjc-dfc 94
+eb-dfc 284
+fgg-dfc 284
+ghb-dfc 94
+ca-dfc 379
+fgj-dfc 664
+353
+6
+bga-dfd 96
+da-dfd 160
+gcb-dfd 64
+bbae-dfd 64
+idj-dfd 1381
+bfcc-dfd 224
+354
+4
+ii-dfe 342
+badc-dfe 62
+ejd-dfe 186
+baac-dfe 1400
+355
+5
+jha-dff 12
+ife-dff 36
+hii-dff 1388
+gie-dff 446
+heg-dff 108
+356
+3
+cdj-dfg 8
+dhf-dfg 35
+eib-dfg 1947
+357
+5
+hg-dfh 23
+fhb-dfh 671
+fee-dfh 486
+bbcb-dfh 393
+beci-dfh 416
+358
+3
+hgh-dfi 1710
+baac-dfi 5
+egd-dfi 275
+359
+3
+eb-dfj 153
+ejd-dfj 76
+bbah-dfj 1762
+360
+5
+g-dga 39
+dgi-dga 19
+fff-dga 449
+cb-dga 19
+bcdg-dga 1464
+361
+2
+cad-dgb 90
+bcae-dgb 1901
+362
+6
+bc-dgc 132
+c-dgc 66
+jic-dgc 929
+fib-dgc 730
+jja-dgc 66
+bdbb-dgc 66
+363
+9
+cbc-dgd 47
+ebc-dgd 47
+bfa-dgd 142
+feh-dgd 94
+ifg-dgd 47
+badi-dgd 426
+bajj-dgd 332
+bbjf-dgd 664
+ifb-dgd 189
+364
+6
+ifc-dge 53
+dc-dge 215
+hcj-dge 161
+bccf-dge 1022
+ef-dge 215
+beaa-dge 323
+365
+4
+dhf-dgf 56
+jfj-dgf 113
+bbba-dgf 1707
+bffd-dgf 113
+366
+3
+dce-dgg 284
+bg-dgg 853
+bced-dgg 853
+367
+2
+dff-dgh 83
+idi-dgh 1909
+368
+5
+cgg-dgi 153
+deb-dgi 1072
+bbf-dgi 153
+ibf-dgi 536
+ceb-dgi 76
+369
+4
+gg-dgj 1019
+bea-dgj 509
+bcab-dgj 324
+ghb-dgj 138
+370
+4
+dij-dha 664
+ecg-dha 332
+jhi-dha 332
+dji-dha 664
+371
+3
+ebh-dhb 811
+d-dhb 368
+bajb-dhb 811
+372
+7
+dfg-dhc 13
+ccd-dhc 6
+dbg-dhc 1494
+bbce-dhc 203
+jii-dhc 137
+bdab-dhc 124
+bbed-dhc 13
+373
+6
+cdi-dhd 153
+fhc-dhd 43
+dgh-dhd 569
+hfh-dhd 109
+ije-dhd 481
+baeg-dhd 634
+374
+6
+dca-dhe 176
+ieg-dhe 100
+bbhi-dhe 857
+ehb-dhe 25
+bbii-dhe 554
+bbhb-dhe 277
+375
+5
+cjd-dhf 199
+bcf-dhf 28
+ebj-dhf 483
+ich-dhf 85
+baga-dhf 1195
+376
+4
+bfe-dhg 1388
+ida-dhg 181
+beab-dhg 362
+begf-dhg 60
+377
+5
+dgf-dhh 449
+bbb-dhh 192
+bbh-dhh 321
+bdac-dhh 835
+gbg-dhh 192
+378
+6
+ebh-dhi 106
+fhf-dhi 213
+fjf-dhi 71
+bbbb-dhi 106
+bcab-dhi 106
+ihg-dhi 1387
+379
+7
+fce-dhj 108
+idc-dhj 86
+ddj-dhj 931
+begh-dhj 129
+idf-dhj 649
+ecj-dhj 21
+icc-dhj 64
+380
+4
+bdc-dia 14
+jcc-dia 7
+hge-dia 14
+ecg-dia 1955
+381
+4
+cfd-dib 398
+bgg-dib 298
+dhj-dib 1195
+ffd-dib 99
+382
+8
+hc-dic 55
+dih-dic 55
+fh-dic 221
+ebi-dic 276
+hhd-dic 221
+jff-dic 166
+edj-dic 940
+bbgj-dic 55
+383
+6
+bab-did 612
+ccj-did 153
+dhg-did 459
+hid-did 306
+bgj-did 306
+eii-did 153
+384
+6
+dci-die 33
+fig-die 16
+fea-die 83
+jeb-die 49
+fac-die 448
+baag-die 1361
+385
+1
+bbdh-dif 1992
+386
+3
+edj-dig 409
+fcd-dig 1309
+hih-dig 272
+387
+2
+fdg-dih 1618
+bbjg-dih 373
+388
+2
+bage-dii 1398
+bdeg-dii 593
+389
+5
+cga-dij 24
+eai-dij 18
+bacf-dij 18
+hhe-dij 183
+ici-dij 1747
+390
+2
+bhe-dja 996
+bdhi-dja 996
+391
+2
+eee-djb 185
+jjj-djb 1806
+392
+3
+dba-djc 253
+ddi-djc 325
+jaj-djc 1412
+393
+6
+cie-djd 398
+ceb-djd 99
+jdd-djd 99
+jif-djd 99
+ifd-djd 697
+bejh-djd 597
+394
+7
+he-dje 24
+bbj-dje 147
+dbi-dje 24
+hag-dje 24
+dbh-dje 24
+ddc-dje 24
+beaj-dje 1721
+395
+2
+di-djf 996
+eha-djf 996
+396
+7
+baa-djg 153
+cji-djg 153
+bcc-djg 76
+jbc-djg 76
+hca-djg 766
+bceg-djg 306
+efi-djg 459
+397
+9
+bdh-djh 9
+djb-djh 18
+bif-djh 28
+ebi-djh 217
+beca-djh 132
+gai-djh 18
+gdg-djh 94
+cjc-djh 868
+bdef-djh 604
+398
+4
+cha-dji 398
+cic-dji 265
+hhj-dji 1062
+bahj-dji 265
+399
+6
+caj-djj 29
+egi-djj 29
+dec-djj 386
+dda-djj 59
+bbc-djj 624
+jib-djj 862
+400
+7
+bif-eaa 6
+ghi-eaa 12
+hbg-eaa 6
+bee-eaa 1743
+eji-eaa 12
+jbb-eaa 6
+hjj-eaa 203
+401
+4
+fh-eab 46
+chi-eab 208
+bdha-eab 162
+bbga-eab 1575
+402
+5
+bcc-eac 48
+big-eac 48
+bagg-eac 388
+cej-eac 1457
+jhi-eac 48
+403
+4
+chj-ead 132
+dce-ead 398
+caf-ead 1328
+dj-ead 132
+404
+7
+fhi-eae 31
+gai-eae 6
+fed-eae 18
+edd-eae 6
+gdc-eae 25
+icb-eae 1872
+bic-eae 31
+405
+4
+jc-eaf 459
+ghj-eaf 153
+fde-eaf 459
+fgj-eaf 919
+406
+5
+ca-eag 181
+hea-eag 362
+gff-eag 1177
+cfa-eag 90
+hgb-eag 181
+407
+5
+cgd-eah 5
+eca-eah 189
+gdj-eah 48
+bbcf-eah 1694
+bcaj-eah 54
+408
+4
+efh-eai 80
+ffa-eai 20
+be-eai 40
+bbec-eai 1851
+409
+4
+eae-eaj 192
+dfj-eaj 64
+jfa-eaj 192
+beec-eaj 1542
+410
+6
+cee-eba 20
+feb-eba 93
+bjj-eba 20
+gih-eba 31
+bif-eba 1743
+bebc-eba 83
+411
+7
+ebg-ebb 27
+fac-ebb 27
+fff-ebb 221
+beb-ebb 249
+ggb-ebb 138
+iij-ebb 802
+ffd-ebb 525
+412
+3
+ecb-ebc 398
+baej-ebc 1195
+bjg-ebc 398
+413
+8
+cag-ebd 12
+cbb-ebd 25
+ejb-ebd 75
+had-ebd 50
+dgi-ebd 137
+badb-ebd 689
+bcce-ebd 125
+bdae-ebd 876
+414
+6
+dgb-ebe 73
+ceb-ebe 73
+hfg-ebe 73
+df-ebe 885
+ebb-ebe 368
+bfhc-ebe 516
+415
+4
+bfd-ebf 284
+bge-ebf 284
+fhf-ebf 569
+ijf-ebf 853
+416
+3
+dcf-ebg 664
+fga-ebg 996
+ghg-ebg 332
+417
+4
+daf-ebh 8
+hdg-ebh 16
+bahf-ebh 75
+icg-ebh 1890
+418
+3
+ebd-ebi 138
+ebc-ebi 92
+hfe-ebi 1760
+419
+5
+ghd-ebj 60
+jgc-ebj 1231
+ehi-ebj 301
+igf-ebj 12
+djj-ebj 386
+420
+5
+dhi-eca 12
+dbf-eca 51
+jff-eca 19
+eh-eca 194
+jga-eca 1712
+421
+2
+daj-ecb 88
+bchc-ecb 1903
+422
+10
+cd-ecc 85
+edi-ecc 102
+ejd-ecc 17
+jc-ecc 17
+idf-ecc 51
+gce-ecc 17
+babd-ecc 51
+fbe-ecc 68
+bdie-ecc 34
+bdch-ecc 1549
+423
+3
+fba-ecd 18
+dha-ecd 18
+jfj-ecd 1954
+424
+4
+ecd-ece 142
+eaa-ece 1422
+ici-ece 284
+eeh-ece 142
+425
+6
+dh-ecf 66
+eed-ecf 66
+dgb-ecf 265
+dc-ecf 66
+cib-ecf 265
+beh-ecf 1261
+426
+3
+dfa-ecg 28
+bcca-ecg 1934
+fbc-ecg 28
+427
+5
+fcf-ech 8
+dbh-ech 65
+bajd-ech 8
+jjc-ech 138
+hcd-ech 1771
+428
+4
+dh-eci 90
+cei-eci 30
+hcg-eci 1358
+jac-eci 513
+429
+3
+gbj-ecj 199
+fbc-ecj 498
+ihi-ecj 1294
+430
+7
+dgb-eda 113
+eai-eda 22
+hbd-eda 45
+igj-eda 67
+dhf-eda 1086
+bbdb-eda 498
+bdcg-eda 158
+431
+7
+ff-edb 56
+fb-edb 170
+eci-edb 56
+gec-edb 284
+jj-edb 398
+iia-edb 170
+gdd-edb 853
+432
+5
+bhb-edc 142
+dci-edc 142
+ggi-edc 142
+baa-edc 996
+ihi-edc 569
+433
+6
+bai-edd 24
+dfa-edd 120
+ebd-edd 48
+gag-edd 96
+bdh-edd 360
+cbe-edd 1344
+434
+4
+ejb-ede 9
+ffi-ede 130
+jbb-ede 195
+jh-ede 1656
+435
+6
+ci-edf 35
+dic-edf 142
+fah-edf 71
+hba-edf 889
+bdfe-edf 711
+bdag-edf 142
+436
+6
+bgd-edg 60
+ddc-edg 60
+ggd-edg 422
+jgh-edg 543
+cde-edg 724
+ie-edg 181
+437
+5
+dah-edh 111
+cfj-edh 89
+bbgb-edh 1298
+hcd-edh 358
+beb-edh 134
+438
+9
+ccg-edi 64
+cfj-edi 64
+eja-edi 385
+gah-edi 192
+gie-edi 385
+egf-edi 449
+bjd-edi 128
+bda-edi 128
+baib-edi 192
+439
+3
+cfb-edj 9
+egj-edj 186
+egf-edj 1796
+440
+4
+djh-eea 199
+gcc-eea 796
+igj-eea 199
+bgj-eea 796
+441
+4
+dec-eeb 314
+hgh-eeb 943
+bab-eeb 209
+hei-eeb 524
+442
+4
+cbe-eec 41
+bha-eec 166
+hci-eec 913
+dge-eec 871
+443
+4
+gcd-eed 28
+fcg-eed 181
+iaa-eed 1731
+jhc-eed 49
+444
+3
+fgi-eee 629
+idg-eee 1258
+chb-eee 104
+445
+5
+dej-eef 88
+bdg-eef 1549
+jad-eef 44
+bie-eef 88
+bdcd-eef 221
+446
+6
+dji-eeg 442
+chg-eeg 110
+cfe-eeg 221
+dcc-eeg 221
+bfc-eeg 774
+badg-eeg 221
+447
+3
+bcc-eeh 221
+fbd-eeh 442
+gbb-eeh 1328
+448
+5
+ejc-eei 6
+fii-eei 33
+bih-eei 86
+haj-eei 13
+beed-eei 1851
+449
+4
+chc-eej 36
+bbif-eej 368
+bcag-eej 332
+bcih-eej 1254
+450
+7
+ii-efa 30
+dhd-efa 30
+egc-efa 30
+cbb-efa 30
+jia-efa 784
+bccg-efa 362
+hch-efa 724
+451
+3
+eib-efb 284
+ehc-efb 1422
+bbgj-efb 284
+452
+4
+bhh-efc 346
+fdg-efc 346
+ehd-efc 1212
+hd-efc 86
+453
+4
+bbc-efd 14
+igj-efd 14
+iac-efd 59
+fei-efd 1902
+454
+2
+ija-efe 39
+bcdb-efe 1952
+455
+5
+fff-eff 44
+hgf-eff 101
+jge-eff 222
+bbed-eff 19
+bjf-eff 1605
+456
+5
+daf-efg 6
+fii-efg 27
+bcad-efg 964
+bbj-efg 55
+iib-efg 936
+457
+7
+dci-efh 59
+fde-efh 19
+ibb-efh 39
+bbeg-efh 59
+ded-efh 690
+iic-efh 808
+igc-efh 315
+458
+3
+eed-efi 553
+icc-efi 221
+eec-efi 1217
+459
+6
+efe-efj 239
+gde-efj 239
+fhc-efj 239
+fje-efj 79
+bbfa-efj 637
+bbca-efj 557
+460
+8
+cgd-ega 12
+icf-ega 12
+bja-ega 1344
+bbac-ega 12
+cbg-ega 49
+feh-ega 87
+bac-ega 199
+jca-ega 273
+461
+6
+efi-egb 34
+fdb-egb 34
+cdg-egb 34
+hic-egb 398
+jg-egb 86
+bcdf-egb 1403
+462
+2
+ddc-egc 1494
+ccj-egc 498
+463
+4
+bbf-egd 16
+ebd-egd 16
+bdhg-egd 149
+cfa-egd 1809
+464
+6
+ecb-ege 498
+fdb-ege 298
+bg-ege 99
+dbb-ege 199
+ifi-ege 697
+dib-ege 199
+465
+4
+cha-egf 8
+fge-egf 386
+eae-egf 695
+ifd-egf 901
+466
+5
+die-egg 169
+eaj-egg 593
+ed-egg 42
+jia-egg 296
+idd-egg 890
+467
+3
+gah-egh 166
+cii-egh 166
+iid-egh 1660
+468
+4
+cdi-egi 398
+hef-egi 996
+efa-egi 398
+ghc-egi 199
+469
+6
+ij-egj 26
+dbi-egj 242
+ibi-egj 53
+jj-egj 188
+baih-egj 430
+jdg-egj 1049
+470
+6
+bjj-eha 6
+eid-eha 6
+bbi-eha 18
+bcbi-eha 6
+cgh-eha 1943
+fgd-eha 12
+471
+4
+bfc-ehb 52
+bj-ehb 17
+fei-ehb 34
+hib-ehb 1887
+472
+2
+cdh-ehc 408
+iad-ehc 1583
+473
+4
+dfd-ehd 6
+hcb-ehd 1806
+hjj-ehd 54
+bffb-ehd 125
+474
+4
+di-ehe 59
+hje-ehe 178
+ibh-ehe 1456
+bebj-ehe 297
+475
+5
+caa-ehf 166
+fag-ehf 498
+hgh-ehf 498
+cac-ehf 332
+jgj-ehf 498
+476
+5
+ddb-ehg 26
+cgg-ehg 26
+hda-ehg 524
+edf-ehg 969
+bdgh-ehg 445
+477
+5
+dad-ehh 170
+dcc-ehh 56
+gcc-ehh 170
+had-ehh 56
+ecf-ehh 1536
+478
+3
+fef-ehi 55
+bbeg-ehi 239
+jfd-ehi 1696
+479
+4
+hbj-ehj 355
+baeh-ehj 71
+bcgj-ehj 996
+eci-ehj 569
+480
+5
+ddb-eia 543
+efb-eia 181
+bfa-eia 543
+efc-eia 362
+cjj-eia 362
+481
+4
+dg-eib 16
+bbbe-eib 544
+iih-eib 1414
+bcji-eib 16
+482
+5
+ebb-eic 14
+fhi-eic 59
+bdfb-eic 1165
+befh-eic 14
+bfef-eic 737
+483
+6
+hc-eid 229
+bdg-eid 536
+fbg-eid 76
+ejg-eid 76
+bddi-eid 229
+bfhj-eid 842
+484
+5
+gbb-eie 1022
+baf-eie 107
+gcf-eie 107
+bbaf-eie 53
+ffj-eie 699
+485
+4
+djj-eif 181
+daa-eif 362
+fdf-eif 1267
+hac-eif 181
+486
+4
+ede-eig 209
+edi-eig 524
+fdf-eig 314
+bfeh-eig 943
+487
+5
+efh-eih 332
+cag-eih 498
+jc-eih 166
+ifi-eih 664
+daa-eih 332
+488
+4
+bgb-eii 177
+cfd-eii 132
+fij-eii 44
+bfdi-eii 1637
+489
+5
+bje-eij 48
+dfg-eij 291
+ief-eij 242
+dcc-eij 485
+jae-eij 923
+490
+3
+iaj-eja 216
+hej-eja 113
+babi-eja 1661
+491
+3
+cdi-ejb 79
+ibd-ejb 1593
+bhc-ejb 318
+492
+6
+eia-ejc 87
+daj-ejc 157
+hgb-ejc 192
+bcbe-ejc 996
+gji-ejc 69
+ggd-ejc 489
+493
+2
+iic-ejd 66
+ige-ejd 1925
+494
+6
+bfj-eje 340
+gic-eje 194
+ebj-eje 388
+cif-eje 242
+ege-eje 194
+iei-eje 631
+495
+3
+bgb-ejf 259
+ecf-ejf 86
+bfja-ejf 1645
+496
+4
+eb-ejg 62
+ghb-ejg 62
+chd-ejg 461
+feg-ejg 1404
+497
+4
+bbi-ejh 398
+egb-ejh 796
+iaa-ejh 398
+idi-ejh 398
+498
+5
+cgh-eji 346
+cdd-eji 346
+dih-eji 173
+hfb-eji 606
+d-eji 519
+499
+2
+chf-ejj 1776
+hif-ejj 215
+500
+5
+dfb-faa 58
+deg-faa 234
+dhg-faa 175
+ice-faa 410
+bbba-faa 1113
+501
+2
+dbf-fab 1328
+dda-fab 664
+502
+5
+cbh-fac 59
+cbi-fac 118
+hdh-fac 178
+bbii-fac 1070
+hbc-fac 564
+503
+6
+dih-fad 11
+cfh-fad 11
+iej-fad 296
+baei-fad 1209
+bdjg-fad 225
+fgd-fad 237
+504
+4
+fej-fae 14
+fje-fae 29
+baba-fae 1085
+bdia-fae 862
+505
+3
+ice-faf 199
+bcja-faf 996
+hid-faf 796
+506
+5
+hcd-fag 60
+jif-fag 7
+ggd-fag 15
+bahb-fag 52
+dbf-fag 1856
+507
+2
+bjf-fah 498
+jbj-fah 1494
+508
+5
+bcj-fai 83
+eff-fai 83
+gdj-fai 83
+fdh-fai 1411
+badj-fai 332
+509
+6
+fgi-faj 71
+ghi-faj 71
+iii-faj 142
+bhe-faj 853
+ggb-faj 711
+ga-faj 142
+510
+4
+cdi-fba 43
+bge-fba 10
+dii-fba 64
+bbdb-fba 1872
+511
+5
+fic-fbb 53
+fid-fbb 161
+geh-fbb 53
+jih-fbb 161
+jgi-fbb 1561
+512
+4
+eeg-fbc 569
+fej-fbc 426
+ejh-fbc 426
+baag-fbc 569
+513
+5
+bih-fbd 498
+eai-fbd 110
+hej-fbd 498
+ejj-fbd 55
+jhc-fbd 830
+514
+3
+fgi-fbe 147
+bajc-fbe 147
+bceh-fbe 1696
+515
+1
+jbh-fbf 1992
+516
+2
+edb-fbg 1422
+dff-fbg 569
+517
+6
+fdh-fbh 717
+fgb-fbh 239
+hca-fbh 159
+ib-fbh 79
+bc-fbh 478
+bcjg-fbh 318
+518
+5
+cfg-fbi 173
+eah-fbi 173
+ebf-fbi 519
+dcc-fbi 86
+bjb-fbi 1039
+519
+6
+hb-fbj 46
+fdc-fbj 30
+fch-fbj 77
+ieg-fbj 46
+beig-fbj 92
+hdc-fbj 1698
+520
+5
+dce-fca 104
+gaj-fca 838
+bcie-fca 52
+bccg-fca 786
+jib-fca 209
+521
+5
+bhb-fcb 77
+fij-fcb 25
+h-fcb 51
+bcdf-fcb 1603
+hbb-fcb 232
+522
+4
+gbd-fcc 191
+gic-fcc 175
+fjh-fcc 95
+bfca-fcc 1529
+523
+4
+cae-fcd 39
+ghf-fcd 39
+hib-fcd 39
+cba-fcd 1872
+524
+3
+gjh-fce 41
+gia-fce 390
+baec-fce 1560
+525
+7
+ejd-fcf 26
+ehe-fcf 1130
+ebi-fcf 215
+bff-fcf 80
+cgf-fcf 53
+baib-fcf 403
+cce-fcf 80
+526
+4
+bcah-fcg 83
+gcc-fcg 1743
+bbe-fcg 83
+eig-fcg 83
+527
+8
+ecb-fch 581
+fcf-fch 166
+hfc-fch 41
+eae-fch 581
+cjb-fch 41
+bcee-fch 373
+beaj-fch 166
+bfgh-fch 41
+528
+8
+fhg-fci 86
+bjf-fci 43
+iba-fci 606
+dfd-fci 43
+dei-fci 129
+iei-fci 43
+dfh-fci 606
+bbea-fci 433
+529
+6
+egd-fcj 265
+ffb-fcj 398
+ghc-fcj 398
+fcg-fcj 132
+hge-fcj 664
+heb-fcj 132
+530
+6
+bhj-fda 93
+edf-fda 374
+gca-fda 23
+bhi-fda 374
+cfd-fda 468
+bbbd-fda 656
+531
+5
+ccf-fdb 7
+ffg-fdb 7
+eha-fdb 1770
+bcga-fdb 7
+def-fdb 199
+532
+6
+dad-fdc 102
+cif-fdc 357
+eg-fdc 51
+bbjb-fdc 102
+dhh-fdc 255
+bahi-fdc 1123
+533
+9
+bei-fdd 69
+baei-fdd 816
+baif-fdd 13
+edd-fdd 622
+dfb-fdd 41
+hid-fdd 166
+eaf-fdd 96
+bfha-fdd 138
+bfie-fdd 27
+534
+3
+egb-fde 853
+fih-fde 284
+jj-fde 853
+535
+6
+fbj-fdf 54
+cgg-fdf 108
+gdc-fdf 235
+bade-fdf 36
+fdg-fdf 199
+ibe-fdf 1358
+536
+5
+bhi-fdg 97
+gje-fdg 145
+gbh-fdg 194
+bach-fdg 1068
+bdhg-fdg 485
+537
+7
+cjd-fdh 144
+ffa-fdh 288
+hjd-fdh 86
+deb-fdh 1241
+cdc-fdh 144
+bcjh-fdh 57
+gf-fdh 28
+538
+2
+bh-fdi 53
+jii-fdi 1938
+539
+2
+hbh-fdj 233
+bdfh-fdj 1758
+540
+5
+caf-fea 26
+bbia-fea 812
+bceb-fea 262
+bdcd-fea 864
+ee-fea 26
+541
+6
+ieb-feb 1280
+hgh-feb 40
+ibd-feb 284
+ih-feb 20
+dfh-feb 345
+cid-feb 20
+542
+3
+ffe-fec 28
+bfcg-fec 1735
+bfij-fec 227
+543
+5
+eac-fed 47
+fdh-fed 94
+bbhb-fed 711
+fjd-fed 47
+hdi-fed 1090
+544
+5
+fff-fee 187
+be-fee 75
+ihf-fee 488
+bbaa-fee 751
+ecb-fee 488
+545
+5
+dfe-fef 38
+bbfh-fef 70
+bdad-fef 5
+je-fef 294
+bfdg-fef 1582
+546
+6
+bd-feg 42
+ihh-feg 14
+bi-feg 42
+ijc-feg 14
+hgh-feg 1808
+bcgj-feg 70
+547
+5
+bch-feh 128
+bbdc-feh 64
+hei-feh 321
+chc-feh 64
+djg-feh 1413
+548
+6
+fbi-fei 39
+dbc-fei 13
+ffc-fei 53
+eeg-fei 159
+bcgi-fei 132
+begd-fei 1593
+549
+4
+eji-fej 166
+gcg-fej 664
+hhe-fej 498
+dfe-fej 664
+550
+5
+df-ffa 19
+dce-ffa 19
+gch-ffa 557
+idb-ffa 298
+bfef-ffa 1095
+551
+7
+dab-ffb 977
+cbd-ffb 36
+gda-ffb 36
+ica-ffb 507
+i-ffb 108
+jfe-ffb 181
+cfd-ffb 144
+552
+4
+bdj-ffc 117
+ejg-ffc 58
+bgc-ffc 351
+hbb-ffc 1464
+553
+3
+jaf-ffd 73
+dij-ffd 1770
+eia-ffd 147
+554
+2
+baba-ffe 468
+hdc-ffe 1523
+555
+7
+edi-fff 159
+chc-fff 39
+fgj-fff 119
+jbf-fff 278
+baae-fff 517
+baj-fff 278
+hfd-fff 597
+556
+1
+ffi-ffg 1992
+557
+2
+fja-ffh 99
+e-ffh 1892
+558
+5
+fed-ffi 90
+gaj-ffi 181
+bcdd-ffi 814
+cif-ffi 362
+cdj-ffi 543
+559
+4
+dfd-ffj 221
+gih-ffj 221
+gfi-ffj 1217
+baid-ffj 332
+560
+8
+cie-fga 107
+gei-fga 242
+eae-fga 484
+igi-fga 161
+bdib-fga 26
+ceb-fga 26
+bbhg-fga 26
+bhe-fga 915
+561
+3
+eei-fgb 36
+gff-fgb 1881
+dba-fgb 73
+562
+5
+dbd-fgc 130
+cjb-fgc 65
+jad-fgc 32
+dgd-fgc 97
+bagf-fgc 1665
+563
+6
+dij-fgd 132
+bie-fgd 33
+ffa-fgd 132
+fb-fgd 66
+bfff-fgd 498
+bfic-fgd 1128
+564
+2
+gjf-fge 1901
+ibf-fge 90
+565
+2
+def-fgf 597
+ha-fgf 1394
+566
+2
+bih-fgg 796
+ice-fgg 1195
+567
+3
+dbh-fgh 385
+jcf-fgh 1156
+jjf-fgh 449
+568
+4
+eeh-fgi 54
+bcbi-fgi 27
+hjf-fgi 18
+dfg-fgi 1892
+569
+4
+egh-fgj 12
+bdc-fgj 167
+gbh-fgj 12
+ghj-fgj 1799
+570
+3
+bfi-fha 239
+fhc-fha 1673
+bfig-fha 79
+571
+6
+feb-fhb 19
+hfe-fhb 4
+bajf-fhb 4
+beaa-fhb 19
+bfcb-fhb 1531
+beeb-fhb 411
+572
+6
+cba-fhc 5
+bbi-fhc 117
+hch-fhc 26
+bfed-fhc 1729
+ijj-fhc 26
+bgea-fhc 85
+573
+4
+dgi-fhd 199
+dea-fhd 199
+cih-fhd 896
+hic-fhd 697
+574
+5
+dic-fhe 153
+ebh-fhe 766
+gge-fhe 229
+hci-fhe 612
+jbe-fhe 229
+575
+2
+gad-fhf 1494
+ffb-fhf 498
+576
+4
+da-fhg 170
+fjc-fhg 626
+jbb-fhg 56
+bbfh-fhg 1138
+577
+1
+cba-fhh 1992
+578
+4
+bja-fhi 1323
+idd-fhi 13
+jcb-fhi 441
+bcgj-fhi 213
+579
+5
+ii-fhj 597
+fgf-fhj 99
+gaj-fhj 199
+fag-fhj 796
+bgde-fhj 298
+580
+4
+cdd-fia 36
+bb-fia 36
+gcc-fia 1629
+hga-fia 289
+581
+3
+fgb-fib 1612
+gjb-fib 189
+bag-fib 189
+582
+6
+cif-fic 18
+ifh-fic 18
+ijd-fic 37
+cea-fic 626
+hgg-fic 56
+bgaj-fic 1233
+583
+6
+fh-fid 6
+cdd-fid 6
+hh-fid 37
+bbaa-fid 1673
+cih-fid 212
+gif-fid 56
+584
+3
+efe-fie 1195
+ffb-fie 56
+bccf-fie 739
+585
+4
+bbc-fif 41
+ibj-fif 207
+bfcg-fif 415
+gge-fif 1328
+586
+6
+bjc-fig 55
+gfa-fig 55
+eib-fig 940
+dec-fig 387
+ejg-fig 332
+bfj-fig 221
+587
+3
+ed-fih 398
+id-fih 1195
+bcc-fih 398
+588
+4
+haf-fii 265
+bagb-fii 796
+gde-fii 597
+bcfh-fii 332
+589
+3
+fdf-fij 398
+ebj-fij 1195
+bdfi-fij 398
+590
+3
+cih-fja 52
+bhf-fja 52
+edj-fja 1887
+591
+9
+egg-fjb 14
+gcg-fjb 42
+cij-fjb 71
+hc-fjb 28
+caa-fjb 99
+hae-fjb 967
+cja-fjb 14
+gef-fjb 640
+bggb-fjb 113
+592
+5
+dbg-fjc 34
+baee-fjc 11
+bcff-fjc 34
+cie-fjc 1736
+hdf-fjc 175
+593
+2
+ecc-fjd 398
+cif-fjd 1593
+594
+4
+fba-fje 569
+hdj-fje 94
+hci-fje 664
+bbac-fje 664
+595
+3
+fhc-fjf 747
+jhf-fjf 498
+bahg-fjf 747
+596
+2
+bhg-fjg 221
+bcfe-fjg 1770
+597
+6
+fdf-fjh 142
+ei-fjh 142
+babb-fjh 142
+ddd-fjh 142
+baij-fjh 996
+g-fjh 426
+598
+9
+ejc-fji 159
+ehf-fji 79
+hh-fji 39
+bgb-fji 39
+iga-fji 517
+cdf-fji 159
+jbi-fji 717
+bddi-fji 119
+fij-fji 159
+599
+3
+ddi-fjj 442
+bbg-fjj 1217
+gj-fjj 332
+600
+4
+gie-gaa 6
+gjf-gaa 6
+gbb-gaa 45
+bacj-gaa 1933
+601
+3
+ca-gab 17
+ejg-gab 5
+gdh-gab 1968
+602
+1
+cca-gac 1992
+603
+6
+bf-gad 91
+cdf-gad 11
+bjc-gad 56
+hij-gad 591
+jjh-gad 125
+bdfe-gad 1115
+604
+7
+ceb-gae 76
+bd-gae 229
+jci-gae 153
+hca-gae 306
+bfi-gae 842
+eig-gae 76
+ghc-gae 306
+605
+1
+bjh-gaf 1992
+606
+5
+dgc-gag 597
+dff-gag 199
+jij-gag 597
+bahg-gag 398
+bcba-gag 199
+607
+5
+cjc-gah 117
+fac-gah 292
+cdd-gah 175
+iaf-gah 1288
+ici-gah 117
+608
+2
+daa-gai 664
+gff-gai 1328
+609
+4
+ccf-gaj 7
+di-gaj 1690
+iae-gaj 7
+bcde-gaj 286
+610
+5
+gcb-gba 11
+hgc-gba 55
+bbge-gba 1089
+fdi-gba 99
+bbib-gba 737
+611
+6
+eja-gbb 825
+efh-gbb 28
+cgb-gbb 256
+dhf-gbb 369
+becb-gbb 56
+bfjj-gbb 455
+612
+6
+bbh-gbc 102
+ga-gbc 51
+baab-gbc 1328
+bej-gbc 51
+bbhc-gbc 255
+hb-gbc 204
+613
+4
+gca-gbd 113
+fcb-gbd 853
+cg-gbd 170
+bbcd-gbd 853
+614
+1
+bgfd-gbe 1992
+615
+4
+fgd-gbf 543
+bbeh-gbf 301
+ccj-gbf 603
+bdcf-gbf 543
+616
+4
+dga-gbg 227
+hhb-gbg 284
+bbcb-gbg 398
+dhh-gbg 1081
+617
+3
+dje-gbh 221
+ejj-gbh 73
+ff-gbh 1696
+618
+7
+ej-gbi 117
+dbi-gbi 146
+ifc-gbi 790
+bacg-gbi 175
+cfd-gbi 29
+dib-gbi 29
+bbeh-gbi 703
+619
+4
+gch-gbj 227
+eaa-gbj 75
+jej-gbj 113
+bbfi-gbj 1574
+620
+7
+ddd-gca 249
+gfd-gca 249
+hbg-gca 622
+iid-gca 124
+haj-gca 498
+jig-gca 124
+bbfc-gca 124
+621
+6
+cab-gcb 610
+bch-gcb 32
+bafh-gcb 128
+jca-gcb 96
+bbbb-gcb 32
+bfbd-gcb 1092
+622
+8
+iie-gcc 39
+baad-gcc 59
+gaj-gcc 39
+baee-gcc 118
+bbii-gcc 78
+ejb-gcc 59
+bafc-gcc 650
+cdh-gcc 946
+623
+4
+ja-gcd 110
+egf-gcd 1549
+bbjd-gcd 221
+bgbi-gcd 110
+624
+3
+fai-gce 1195
+dhb-gce 398
+bdfi-gce 398
+625
+3
+daf-gcf 265
+cgj-gcf 929
+baii-gcf 796
+626
+4
+chg-gcg 99
+hgd-gcg 199
+cce-gcg 99
+ijg-gcg 1593
+627
+5
+eja-gch 65
+cih-gch 195
+ffb-gch 32
+fjh-gch 97
+bdc-gch 1600
+628
+6
+fdc-gci 38
+gid-gci 57
+bga-gci 363
+ghh-gci 19
+cea-gci 459
+igb-gci 1053
+629
+2
+ebb-gcj 1636
+ged-gcj 355
+630
+2
+bdcf-gda 480
+ihh-gda 1511
+631
+4
+bdci-gdb 34
+cb-gdb 5
+bbg-gdb 62
+eah-gdb 1889
+632
+5
+gbe-gdc 265
+ifc-gdc 708
+igj-gdc 221
+babf-gdc 398
+cah-gdc 398
+633
+4
+dgb-gdd 468
+hfi-gdd 234
+efh-gdd 234
+bcag-gdd 1054
+634
+5
+gah-gde 99
+hed-gde 49
+gba-gde 49
+baeb-gde 1394
+cdd-gde 398
+635
+4
+bhc-gdf 105
+gfe-gdf 793
+hjh-gdf 70
+bchf-gdf 1022
+636
+5
+db-gdg 67
+gfd-gdg 13
+hag-gdg 363
+bddj-gdg 1399
+bajh-gdg 148
+637
+4
+if-gdh 4
+iih-gdh 4
+bdfd-gdh 34
+jci-gdh 1947
+638
+1
+jcc-gdi 1992
+639
+3
+gjg-gdj 1406
+cei-gdj 117
+dib-gdj 468
+640
+5
+eaa-gea 341
+jh-gea 56
+edi-gea 398
+cda-gea 113
+dea-gea 1081
+641
+5
+eff-geb 66
+fcb-geb 66
+hfa-geb 199
+hhd-geb 1328
+begg-geb 332
+642
+2
+ffc-gec 398
+ihd-gec 1593
+643
+1
+bdbj-ged 1992
+644
+1
+dda-gee 1992
+645
+4
+gij-gef 30
+gfh-gef 60
+dfi-gef 1569
+bdgj-gef 332
+646
+4
+baaa-geg 153
+cie-geg 510
+bfcj-geg 1072
+gaj-geg 255
+647
+4
+gah-geh 36
+iai-geh 54
+bjh-geh 36
+jg-geh 1864
+648
+4
+iba-gei 564
+daf-gei 1128
+eeb-gei 33
+ffa-gei 265
+649
+5
+bge-gej 66
+gda-gej 66
+hgi-gej 1128
+fec-gej 630
+cab-gej 99
+650
+2
+hbc-gfa 996
+bgeg-gfa 996
+651
+4
+g-gfb 19
+jhj-gfb 1925
+gfj-gfb 19
+bcbi-gfb 26
+652
+4
+bcb-gfc 703
+ccf-gfc 117
+baha-gfc 703
+bche-gfc 468
+653
+3
+gch-gfd 547
+hjb-gfd 74
+bdbg-gfd 1369
+654
+3
+bif-gfe 124
+hfa-gfe 74
+baci-gfe 1792
+655
+7
+ehe-gff 120
+bga-gff 42
+egf-gff 73
+jbi-gff 10
+eci-gff 10
+idi-gff 1702
+hh-gff 31
+656
+4
+cef-gfg 86
+chc-gfg 86
+jaj-gfg 86
+bahh-gfg 1732
+657
+4
+bi-gfh 142
+ffb-gfh 426
+iga-gfh 853
+jaj-gfh 569
+658
+5
+ech-gfi 85
+ghc-gfi 14
+jeh-gfi 14
+becd-gfi 1863
+dbd-gfi 14
+659
+1
+bdba-gfj 1992
+660
+3
+bhe-gga 1832
+hhe-gga 79
+gbc-gga 79
+661
+4
+bee-ggb 498
+eae-ggb 1328
+igf-ggb 83
+bej-ggb 83
+662
+2
+id-ggc 459
+bgae-ggc 1532
+663
+4
+djj-ggd 271
+igd-ggd 226
+cjh-ggd 90
+jhh-ggd 1403
+664
+9
+eeb-gge 15
+ehc-gge 141
+gaj-gge 31
+bdc-gge 188
+beg-gge 47
+beai-gge 78
+ifg-gge 62
+efd-gge 1286
+bfid-gge 141
+665
+5
+feh-ggf 273
+ibj-ggf 78
+jfj-ggf 1406
+bcdj-ggf 117
+hab-ggf 117
+666
+4
+caf-ggg 20
+bih-ggg 27
+die-ggg 67
+dij-ggg 1876
+667
+1
+cab-ggh 1992
+668
+3
+cbc-ggi 73
+cgh-ggi 1475
+bfc-ggi 442
+669
+0
+670
+4
+gdh-gha 648
+ifc-gha 1065
+gii-gha 231
+bfgj-gha 46
+671
+6
+ccg-ghb 18
+bbff-ghb 112
+bbfg-ghb 751
+idb-ghb 563
+bgef-ghb 244
+bgae-ghb 300
+672
+8
+efi-ghc 24
+fhi-ghc 303
+fea-ghc 24
+cib-ghc 376
+jjf-ghc 12
+begg-ghc 72
+beid-ghc 898
+bch-ghc 279
+673
+3
+did-ghd 332
+egj-ghd 1527
+bae-ghd 132
+674
+3
+cji-ghe 766
+ccb-ghe 612
+ggg-ghe 612
+675
+1
+ggb-ghf 1992
+676
+4
+fhb-ghg 1288
+dhh-ghg 234
+cej-ghg 351
+fdj-ghg 117
+677
+3
+bacj-ghh 265
+fdi-ghh 132
+cbc-ghh 1593
+678
+4
+bge-ghi 29
+cic-ghi 175
+daf-ghi 1523
+hai-ghi 263
+679
+5
+eig-ghj 36
+fcd-ghj 122
+fdb-ghj 24
+hec-ghj 73
+bcbc-ghj 1735
+680
+4
+ccg-gia 90
+ied-gia 543
+hbf-gia 633
+egg-gia 724
+681
+3
+ehj-gib 7
+cic-gib 28
+bbhf-gib 1955
+682
+5
+fed-gic 262
+gge-gic 104
+bjc-gic 104
+bbga-gic 104
+dhi-gic 1415
+683
+2
+ddg-gid 36
+cjj-gid 1955
+684
+3
+iih-gie 1703
+ihe-gie 28
+ici-gie 259
+685
+5
+gdf-gif 6
+jea-gif 411
+bcdi-gif 59
+bcig-gif 192
+hge-gif 1321
+686
+4
+cec-gig 398
+bbe-gig 398
+gj-gig 398
+ijf-gig 796
+687
+5
+fic-gih 41
+baai-gih 55
+die-gih 373
+bbfb-gih 41
+badc-gih 1480
+688
+3
+cgf-gii 52
+ib-gii 419
+baab-gii 1520
+689
+5
+bei-gij 507
+fgh-gij 108
+ibd-gij 905
+ehf-gij 253
+ehh-gij 217
+690
+2
+ecd-gja 1757
+bajc-gja 234
+691
+1
+ebc-gjb 1992
+692
+5
+hg-gjc 32
+ca-gjc 8
+hji-gjc 452
+gbe-gjc 814
+behb-gjc 683
+693
+1
+gad-gjd 1992
+694
+4
+b-gje 106
+eca-gje 142
+bhc-gje 1280
+bbdf-gje 462
+695
+3
+dig-gjf 644
+hdh-gjf 284
+ieg-gjf 1063
+696
+6
+dci-gjg 17
+bbic-gjg 332
+egg-gjg 209
+bdda-gjg 541
+behg-gjg 698
+bfb-gjg 192
+697
+3
+cje-gjh 38
+dfd-gjh 229
+cbg-gjh 1723
+698
+2
+ghe-gji 1328
+bbgf-gji 664
+699
+4
+cg-gjj 110
+fbi-gjj 110
+hhe-gjj 332
+iii-gjj 1438
+700
+4
+bjj-haa 516
+dg-haa 184
+dbe-haa 221
+bcea-haa 1069
+701
+3
+gc-hab 524
+fij-hab 524
+bcfg-hab 943
+702
+4
+gid-hac 153
+gdb-hac 1072
+eif-hac 153
+bcbg-hac 612
+703
+1
+iec-had 1992
+704
+6
+fac-hae 6
+ije-hae 58
+idb-hae 128
+chi-hae 631
+bbic-hae 921
+hea-hae 244
+705
+5
+gic-haf 7
+bbcd-haf 10
+jji-haf 10
+jda-haf 1955
+cdd-haf 7
+706
+6
+dfg-hag 83
+dic-hag 193
+hje-hag 1189
+bcgb-hag 276
+beje-hag 110
+ecj-hag 138
+707
+4
+dcd-hah 21
+ghg-hah 21
+efj-hah 481
+fda-hah 1466
+708
+3
+bfh-hai 99
+hfh-hai 1494
+bce-hai 398
+709
+1
+bdjj-haj 1992
+710
+3
+gee-hba 48
+bega-hba 583
+bdbi-hba 1360
+711
+4
+eee-hbb 159
+cfb-hbb 438
+cgj-hbb 239
+fac-hbb 1155
+712
+3
+ffc-hbc 977
+jdg-hbc 977
+bdif-hbc 37
+713
+6
+eij-hbd 113
+iah-hbd 25
+jjf-hbd 25
+bei-hbd 189
+bcbd-hbd 25
+bdff-hbd 1613
+714
+3
+fji-hbe 763
+edh-hbe 18
+fc-hbe 1210
+715
+3
+fcf-hbf 1565
+dga-hbf 142
+jf-hbf 284
+716
+5
+gde-hbg 442
+ife-hbg 525
+egh-hbg 249
+jh-hbg 166
+bdjf-hbg 608
+717
+4
+dbj-hbh 33
+ifg-hbh 11
+babe-hbh 1320
+ci-hbh 627
+718
+2
+egd-hbi 612
+jfh-hbi 1379
+719
+2
+jge-hbj 463
+bedf-hbj 1528
+720
+7
+g-hca 48
+hcf-hca 388
+ejj-hca 48
+cib-hca 242
+jid-hca 340
+ead-hca 242
+ibe-hca 680
+721
+5
+cha-hcb 6
+jba-hcb 6
+bahd-hcb 1865
+bdfa-hcb 59
+ffe-hcb 53
+722
+2
+cie-hcc 1195
+iee-hcc 796
+723
+5
+hhf-hcd 7
+bgi-hcd 383
+jee-hcd 1497
+ghf-hcd 7
+bdhb-hcd 95
+724
+7
+gfj-hce 43
+eab-hce 389
+bde-hce 43
+dha-hce 86
+beaf-hce 259
+ejf-hce 606
+bchf-hce 562
+725
+5
+cih-hcf 100
+b-hcf 344
+hhc-hcf 133
+gad-hcf 1246
+bbae-hcf 166
+726
+4
+ja-hcg 306
+jjg-hcg 51
+ibf-hcg 1106
+baed-hcg 527
+727
+4
+fci-hch 664
+jcb-hch 241
+gdg-hch 845
+ghe-hch 241
+728
+5
+geh-hci 393
+baef-hci 98
+bdff-hci 393
+fbf-hci 147
+ggi-hci 959
+729
+6
+eec-hcj 577
+hdb-hcj 28
+ejb-hcj 86
+bbbg-hcj 28
+jd-hcj 57
+bbgd-hcj 1212
+730
+5
+eda-hda 31
+ffb-hda 684
+ea-hda 62
+dec-hda 902
+idc-hda 311
+731
+4
+fei-hdb 40
+jh-hdb 10
+bejg-hdb 485
+bfhg-hdb 1456
+732
+6
+cbi-hdc 61
+jbf-hdc 551
+cej-hdc 15
+bdac-hdc 520
+gig-hdc 30
+befb-hdc 812
+733
+4
+ejb-hdd 92
+bdg-hdd 1714
+cih-hdd 92
+bcf-hdd 92
+734
+3
+gdj-hde 34
+bbjf-hde 515
+jfh-hde 1442
+735
+5
+fad-hdf 46
+gbh-hdf 468
+bbha-hdf 1078
+dci-hdf 328
+bcfg-hdf 70
+736
+3
+eba-hdg 29
+fjc-hdg 1874
+dac-hdg 87
+737
+3
+fec-hdh 1285
+ihb-hdh 642
+baga-hdh 64
+738
+3
+bic-hdi 88
+iae-hdi 132
+beah-hdi 1770
+739
+4
+bci-hdj 84
+eci-hdj 593
+haa-hdj 1186
+jbj-hdj 127
+740
+8
+fdf-hea 308
+jjg-hea 108
+jb-hea 15
+djb-hea 494
+bdfd-hea 138
+cb-hea 46
+befg-hea 787
+bcji-hea 92
+741
+2
+fab-heb 199
+icg-heb 1792
+742
+4
+fai-hec 290
+bdhc-hec 1058
+bdda-hec 269
+bfjg-hec 373
+743
+3
+ffe-hed 543
+bcbg-hed 1267
+bfei-hed 181
+744
+3
+gbf-hee 559
+ijb-hee 34
+bfhd-hee 1397
+745
+5
+beg-hef 26
+bge-hef 13
+gha-hef 26
+bjd-hef 1677
+bfch-hef 249
+746
+3
+ceb-heg 99
+bcdd-heg 1792
+fid-heg 99
+747
+4
+hii-heh 1379
+ggc-heh 229
+ed-heh 76
+dcb-heh 306
+748
+3
+ie-hei 117
+fad-hei 585
+if-hei 1288
+749
+4
+gcc-hej 120
+cec-hej 664
+ccd-hej 362
+bgbd-hej 845
+750
+5
+dgc-hfa 929
+jga-hfa 132
+jhg-hfa 265
+bdi-hfa 132
+befe-hfa 531
+751
+5
+egc-hfb 161
+icd-hfb 969
+gc-hfb 269
+beh-hfb 161
+bff-hfb 430
+752
+3
+gab-hfc 271
+gjh-hfc 1267
+bcdc-hfc 452
+753
+4
+ddc-hfd 124
+bad-hfd 373
+bcec-hfd 249
+eih-hfd 1245
+754
+4
+dfb-hfe 51
+gac-hfe 102
+bahd-hfe 1225
+ejg-hfe 612
+755
+3
+hge-hff 796
+bacc-hff 796
+bbci-hff 398
+756
+3
+gfd-hfg 76
+ij-hfg 7
+bbac-hfg 1908
+757
+5
+eci-hfh 32
+ihf-hfh 224
+ede-hfh 1542
+ibb-hfh 64
+bbaj-hfh 128
+758
+3
+heb-hfi 5
+eci-hfi 89
+beih-hfi 1896
+759
+3
+gaa-hfj 237
+jfc-hfj 59
+bfhi-hfj 1694
+760
+2
+fdb-hga 325
+bbg-hga 1666
+761
+6
+iaj-hgb 175
+bdf-hgb 234
+gcc-hgb 292
+dfj-hgb 175
+hfc-hgb 820
+bccd-hgb 292
+762
+4
+dej-hgc 116
+hje-hgc 947
+fea-hgc 232
+fia-hgc 696
+763
+2
+bbfa-hgd 1156
+bedb-hgd 835
+764
+3
+efg-hge 156
+jdc-hge 16
+beff-hge 1819
+765
+4
+bci-hgf 97
+fea-hgf 293
+icd-hgf 587
+bafe-hgf 1012
+766
+3
+ddc-hgg 543
+baib-hgg 724
+ehf-hgg 724
+767
+2
+deg-hgh 50
+dej-hgh 1941
+768
+4
+hah-hgi 16
+baai-hgi 50
+cdb-hgi 388
+baja-hgi 1536
+769
+1
+bbjj-hgj 1992
+770
+6
+ii-hha 191
+ihj-hha 1146
+hdd-hha 272
+bi-hha 109
+baad-hha 245
+dag-hha 27
+771
+5
+fj-hhb 62
+dfa-hhb 311
+bbaa-hhb 996
+bbaj-hhb 124
+gfa-hhb 498
+772
+3
+fhc-hhc 91
+eia-hhc 30
+beff-hhc 1869
+773
+4
+ch-hhd 11
+gaa-hhd 1732
+bdec-hhd 235
+bbd-hhd 11
+774
+5
+gja-hhe 144
+fcd-hhe 72
+dji-hhe 181
+eff-hhe 1340
+bdfa-hhe 253
+775
+4
+ed-hhf 90
+dag-hhf 271
+bafj-hhf 814
+bcf-hhf 814
+776
+4
+bcd-hhg 99
+hbb-hhg 597
+ga-hhg 99
+dgd-hhg 1195
+777
+2
+ebd-hhh 796
+haa-hhh 1195
+778
+2
+dcj-hhi 55
+bdci-hhi 1936
+779
+7
+beb-hhj 199
+idc-hhj 19
+hie-hhj 119
+cbg-hhj 39
+chi-hhj 19
+jec-hhj 378
+bfag-hhj 1215
+780
+3
+dbf-hia 181
+bbie-hia 325
+jdd-hia 1484
+781
+3
+ccc-hib 15
+bbi-hib 1849
+bbfb-hib 126
+782
+4
+chh-hic 27
+dhd-hic 276
+dcc-hic 221
+bgcf-hic 1466
+783
+1
+bgdg-hid 1992
+784
+2
+bjg-hie 398
+bgbb-hie 1593
+785
+3
+fje-hif 861
+cii-hif 484
+ggc-hif 646
+786
+3
+gb-hig 86
+fig-hig 1732
+che-hig 173
+787
+5
+eii-hih 86
+iaf-hih 303
+ddh-hih 1429
+bfg-hih 108
+bdbe-hih 64
+788
+4
+fej-hii 19
+djb-hii 77
+jaj-hii 77
+cgi-hii 1817
+789
+6
+fj-hij 55
+hag-hij 138
+dif-hij 664
+bbbd-hij 83
+jff-hij 166
+bji-hij 885
+790
+2
+fae-hja 1146
+gbd-hja 845
+791
+3
+cfh-hjb 1885
+bde-hjb 48
+cbb-hjb 58
+792
+7
+hcc-hjc 48
+edj-hjc 12
+ifd-hjc 24
+gaj-hjc 48
+bbfi-hjc 929
+bfhe-hjc 905
+hbi-hjc 24
+793
+2
+fef-hjd 1975
+bbd-hjd 16
+794
+2
+fgj-hje 777
+bdja-hje 1214
+795
+3
+gid-hjf 33
+edj-hjf 1611
+beji-hjf 346
+796
+7
+cfa-hjg 597
+gci-hjg 265
+eda-hjg 265
+igd-hjg 66
+jgg-hjg 332
+gdj-hjg 265
+jdh-hjg 199
+797
+2
+caj-hjh 1422
+bcg-hjh 569
+798
+3
+bba-hji 29
+iac-hji 14
+hfj-hji 1948
+799
+7
+bgc-hjj 146
+fe-hjj 58
+bace-hjj 117
+fgd-hjj 820
+gah-hjj 761
+beea-hjj 29
+cjf-hjj 58
+800
+6
+cij-iaa 4
+deb-iaa 17
+eef-iaa 13
+jcg-iaa 868
+ead-iaa 22
+dhc-iaa 1066
+801
+3
+cdh-iab 69
+ech-iab 1632
+bdbh-iab 289
+802
+3
+eic-iac 323
+hbi-iac 1292
+hia-iac 376
+803
+5
+cba-iad 186
+d-iad 249
+jcd-iad 62
+cgd-iad 1431
+dd-iad 62
+804
+5
+cib-iae 8
+bcd-iae 123
+cdf-iae 1834
+cjg-iae 8
+fjd-iae 16
+805
+4
+ejf-iaf 142
+gjf-iaf 1678
+jd-iaf 28
+ecj-iaf 142
+806
+4
+bage-iag 1815
+ihd-iag 74
+ejg-iag 67
+begg-iag 33
+807
+2
+fei-iah 362
+dad-iah 1629
+808
+4
+jh-iai 28
+gf-iai 28
+beja-iai 142
+dje-iai 1792
+809
+3
+gbh-iaj 173
+gci-iaj 259
+bddg-iaj 1558
+810
+5
+bcb-iba 251
+bafb-iba 836
+bbba-iba 820
+bbbj-iba 66
+ejb-iba 16
+811
+2
+iha-ibb 1867
+bead-ibb 124
+812
+2
+egb-ibc 569
+bbgf-ibc 1422
+813
+2
+bdhd-ibd 569
+bgcj-ibd 1422
+814
+3
+fba-ibe 747
+jbe-ibe 20
+bbcc-ibe 1224
+815
+3
+dje-ibf 393
+dih-ibf 629
+bffh-ibf 969
+816
+4
+efj-ibg 99
+ceb-ibg 199
+fhg-ibg 1294
+bafg-ibg 398
+817
+3
+eja-ibh 840
+bahj-ibh 31
+babb-ibh 1120
+818
+5
+fii-ibi 173
+gi-ibi 43
+bjc-ibi 476
+jib-ibi 173
+fdi-ibi 1125
+819
+4
+hae-ibj 129
+bbdb-ibj 517
+bbcd-ibj 413
+dfd-ibj 931
+820
+5
+jde-ica 52
+bcfh-ica 209
+becf-ica 1100
+edc-ica 104
+dgi-ica 524
+821
+3
+fhj-icb 39
+fib-icb 33
+hfi-icb 1918
+822
+2
+fdh-icc 996
+edb-icc 996
+823
+5
+hj-icd 957
+jaa-icd 106
+eig-icd 15
+hcd-icd 212
+jaj-icd 699
+824
+3
+hgi-ice 38
+jfh-ice 61
+ehd-ice 1891
+825
+4
+cih-icf 214
+dbb-icf 321
+bcha-icf 85
+fce-icf 1370
+826
+3
+bjj-icg 1573
+gcg-icg 81
+bcdi-icg 337
+827
+2
+djd-ich 110
+beei-ich 1881
+828
+3
+dfa-ici 59
+cj-ici 73
+jc-ici 1858
+829
+2
+hbe-icj 166
+jie-icj 1826
+830
+5
+hee-ida 120
+jbh-ida 30
+bhf-ida 30
+ehj-ida 30
+bcfd-ida 1780
+831
+7
+fce-idb 316
+jcb-idb 31
+cdh-idb 126
+bach-idb 600
+bfjd-idb 94
+cii-idb 126
+ghi-idb 695
+832
+3
+gjg-idc 1847
+djj-idc 36
+iij-idc 108
+833
+4
+fj-idd 157
+bbah-idd 288
+fih-idd 104
+bfda-idd 1441
+834
+1
+fgc-ide 1992
+835
+5
+dh-idf 837
+jhi-idf 86
+efa-idf 490
+dii-idf 548
+bajg-idf 28
+836
+4
+ic-idg 27
+bfi-idg 300
+bagf-idg 54
+dhd-idg 1609
+837
+3
+bad-idh 664
+gdg-idh 664
+hhg-idh 664
+838
+5
+hhc-idi 34
+ech-idi 482
+baeh-idi 11
+bbdd-idi 114
+bgfa-idi 1349
+839
+3
+bcc-idj 1030
+bgf-idj 34
+fdj-idj 927
+840
+4
+chb-iea 20
+eeb-iea 13
+bij-iea 107
+bebf-iea 1850
+841
+3
+fhb-ieb 1549
+bdaj-ieb 63
+bbie-ieb 379
+842
+5
+hfh-iec 15
+iff-iec 31
+fgf-iec 7
+hfg-iec 1880
+bbca-iec 55
+843
+4
+bbid-ied 957
+hhb-ied 134
+jac-ied 804
+bche-ied 95
+844
+3
+efc-iee 838
+baje-iee 838
+bdcd-iee 314
+845
+4
+hag-ief 213
+bfc-ief 901
+ea-ief 118
+bbah-ief 758
+846
+5
+ebg-ieg 47
+hcd-ieg 213
+fjj-ieg 142
+idd-ieg 1209
+ffh-ieg 379
+847
+4
+bjg-ieh 44
+bchj-ieh 1637
+caj-ieh 177
+bge-ieh 132
+848
+6
+efg-iei 836
+dbf-iei 33
+gdf-iei 16
+hgi-iei 820
+behf-iei 150
+bcgb-iei 133
+849
+2
+bdi-iej 23
+bbh-iej 1968
+850
+5
+hcf-ifa 1126
+ccc-ifa 489
+bbbi-ifa 293
+bdbe-ifa 65
+bdih-ifa 16
+851
+3
+fgh-ifb 48
+dfh-ifb 1248
+bagh-ifb 696
+852
+6
+cee-ifc 87
+ejj-ifc 153
+bchg-ifc 1393
+gfa-ifc 51
+fdj-ifc 14
+jid-ifc 291
+853
+4
+bah-ifd 39
+cf-ifd 554
+ijh-ifd 26
+bbhd-ifd 1371
+854
+3
+dad-ife 535
+bbdj-ife 25
+hjf-ife 1431
+855
+5
+fb-iff 86
+bjb-iff 64
+jgf-iff 173
+cgi-iff 64
+efe-iff 1602
+856
+3
+jci-ifg 47
+be-ifg 711
+bgeb-ifg 1233
+857
+4
+eif-ifh 45
+baga-ifh 316
+baai-ifh 362
+cid-ifh 1267
+858
+2
+bcci-ifi 1494
+badf-ifi 498
+859
+1
+chb-ifj 1992
+860
+2
+gfj-iga 332
+ebb-iga 1660
+861
+2
+gb-igb 69
+cif-igb 1922
+862
+3
+eaf-igc 293
+gh-igc 32
+bcgi-igc 1665
+863
+3
+ife-igd 717
+ggg-igd 1115
+hfd-igd 159
+864
+3
+dbi-ige 159
+hjc-ige 1460
+dbj-ige 371
+865
+1
+egi-igf 1992
+866
+1
+babd-igg 1992
+867
+1
+hag-igh 1992
+868
+3
+gag-igi 124
+bcbj-igi 996
+bbg-igi 871
+869
+4
+gih-igj 37
+dde-igj 413
+jba-igj 939
+bdie-igj 601
+870
+4
+hgf-iha 284
+jfa-iha 126
+bcdj-iha 1536
+bbfe-iha 44
+871
+2
+eii-ihb 166
+bbcj-ihb 1826
+872
+3
+eba-ihc 265
+jfd-ihc 265
+ehj-ihc 1460
+873
+4
+fj-ihd 46
+behh-ihd 1033
+bbdd-ihd 902
+bgei-ihd 9
+874
+3
+hdi-ihe 664
+hdj-ihe 166
+hdg-ihe 1162
+875
+5
+eh-ihf 67
+ijj-ihf 161
+cfb-ihf 40
+bbad-ihf 1588
+bfcc-ihf 134
+876
+4
+gbf-ihg 189
+cdj-ihg 664
+gij-ihg 1090
+bcj-ihg 47
+877
+3
+eef-ihh 147
+cib-ihh 1475
+gih-ihh 368
+878
+5
+gjh-ihi 30
+jg-ihi 7
+hdb-ihi 15
+bdgf-ihi 1893
+bebh-ihi 45
+879
+2
+cef-ihj 482
+caf-ihj 1509
+880
+3
+fgb-iia 1839
+hfh-iia 43
+fid-iia 109
+881
+5
+id-iib 391
+cfb-iib 25
+bafa-iib 75
+baeb-iib 1450
+chd-iib 50
+882
+4
+iie-iic 156
+fag-iic 894
+gfa-iic 62
+jje-iic 878
+883
+4
+cej-iid 234
+ffa-iid 1288
+iae-iid 351
+bfei-iid 117
+884
+5
+bec-iie 209
+jee-iie 681
+bgc-iie 104
+cbb-iie 209
+bejf-iie 786
+885
+2
+hif-iif 830
+bbei-iif 1162
+886
+3
+hcg-iig 1770
+hjb-iig 73
+ddg-iig 147
+887
+1
+hbj-iih 1992
+888
+1
+bbib-iii 1992
+889
+1
+baaa-iij 1992
+890
+3
+iaa-ija 796
+bcfe-ija 398
+dbj-ija 796
+891
+1
+ega-ijb 1992
+892
+4
+bbf-ijc 569
+hg-ijc 426
+cgi-ijc 711
+bcij-ijc 284
+893
+3
+gdh-ijd 54
+beda-ijd 1737
+hfi-ijd 200
+894
+4
+bef-ije 127
+gda-ije 36
+bbbj-ije 475
+beef-ije 1352
+895
+2
+hei-ijf 249
+bj-ijf 1743
+896
+2
+ig-ijg 72
+behi-ijg 1919
+897
+2
+hhg-ijh 531
+bii-ijh 1460
+898
+1
+gd-iji 1992
+899
+2
+cff-ijj 474
+iaf-ijj 1517
+900
+3
+cf-jaa 104
+jbg-jaa 157
+bbjh-jaa 1729
+901
+3
+djh-jab 249
+baej-jab 498
+gbe-jab 1245
+902
+5
+hca-jac 274
+ejj-jac 446
+ghg-jac 480
+ibb-jac 412
+bgg-jac 377
+903
+3
+djc-jad 199
+bcij-jad 1593
+dgj-jad 199
+904
+3
+cja-jae 181
+ee-jae 60
+bbih-jae 1750
+905
+2
+bdig-jaf 1558
+bgd-jaf 433
+906
+3
+cg-jag 664
+cbc-jag 1146
+bdij-jag 181
+907
+6
+cfe-jah 25
+fie-jah 288
+bajg-jah 12
+bchh-jah 864
+bcif-jah 25
+baia-jah 776
+908
+5
+hah-jai 68
+efa-jai 221
+gbj-jai 817
+bbbg-jai 749
+bffi-jai 136
+909
+2
+iic-jaj 128
+ebd-jaj 1863
+910
+3
+cgd-jba 153
+gej-jba 1570
+bdef-jba 268
+911
+2
+gjc-jbb 766
+dhg-jbb 1225
+912
+2
+gbg-jbc 372
+jca-jbc 1619
+913
+3
+dij-jbd 677
+bgh-jbd 358
+bfad-jbd 956
+914
+3
+fbj-jbe 1328
+bbig-jbe 221
+de-jbe 442
+915
+5
+gfg-jbf 133
+jbe-jbf 16
+bedi-jbf 1657
+hai-jbf 117
+cc-jbf 66
+916
+5
+igc-jbg 16
+bjd-jbg 16
+ehd-jbg 1036
+baie-jbg 712
+bdid-jbg 210
+917
+3
+bji-jbh 97
+babf-jbh 930
+dbd-jbh 963
+918
+2
+hai-jbi 20
+bdcc-jbi 1971
+919
+5
+ieg-jbj 181
+hdc-jbj 543
+jhb-jbj 362
+ejd-jbj 543
+daa-jbj 362
+920
+4
+idf-jca 395
+jde-jca 61
+jfg-jca 1422
+fdh-jca 111
+921
+4
+ihh-jcb 120
+hhf-jcb 332
+gae-jcb 724
+faj-jcb 814
+922
+3
+fej-jcc 226
+fjg-jcc 135
+gfb-jcc 1629
+923
+4
+ied-jcd 178
+bagh-jcd 118
+hgh-jcd 921
+jcc-jcd 773
+924
+1
+bafi-jce 1992
+925
+3
+igj-jcf 1394
+djc-jcf 332
+ghe-jcf 265
+926
+3
+babe-jcg 42
+cfj-jcg 33
+ggg-jcg 1916
+927
+1
+hhh-jch 1992
+928
+6
+hhe-jci 12
+fch-jci 28
+fb-jci 12
+beia-jci 8
+bfbf-jci 1530
+gih-jci 400
+929
+0
+930
+3
+cjb-jda 7
+bgdf-jda 81
+bdig-jda 1903
+931
+5
+bbaj-jdb 144
+jji-jdb 144
+cgf-jdb 552
+hge-jdb 768
+jhc-jdb 384
+932
+3
+hbh-jdc 265
+gdh-jdc 1328
+jc-jdc 398
+933
+3
+dic-jdd 491
+dhc-jdd 1377
+ffh-jdd 122
+934
+6
+bie-jde 27
+baad-jde 41
+bcjb-jde 55
+bdgi-jde 55
+bi-jde 1770
+ha-jde 41
+935
+0
+936
+7
+ibi-jdg 369
+fbf-jdg 61
+dhj-jdg 800
+gea-jdg 287
+bhb-jdg 287
+bh-jdg 82
+cjh-jdg 102
+937
+1
+ea-jdh 1992
+938
+1
+dfb-jdi 1992
+939
+4
+ja-jdj 117
+eic-jdj 351
+jfj-jdj 1406
+dhb-jdj 117
+940
+2
+ije-jea 1959
+ef-jea 32
+941
+1
+jad-jeb 1992
+942
+5
+ehc-jec 913
+bgb-jec 83
+dae-jec 332
+bdfg-jec 332
+badg-jec 332
+943
+1
+djc-jed 1992
+944
+4
+ceg-jee 36
+ej-jee 36
+cfg-jee 91
+hjb-jee 1827
+945
+5
+beh-jef 37
+fad-jef 214
+bbfe-jef 27
+bbje-jef 605
+badj-jef 1107
+946
+2
+bbj-jeg 1792
+baib-jeg 199
+947
+3
+ddj-jeh 612
+bafe-jeh 229
+bgdb-jeh 1149
+948
+2
+eff-jei 1328
+jja-jei 664
+949
+3
+fgj-jej 20
+dch-jej 975
+ehb-jej 996
+950
+4
+bhe-jfa 544
+iec-jfa 311
+chb-jfa 140
+fdj-jfa 996
+951
+3
+cge-jfb 265
+bbdb-jfb 464
+ebb-jfb 1261
+952
+3
+cgh-jfc 275
+jgb-jfc 1702
+egb-jfc 14
+953
+2
+fbd-jfd 518
+babc-jfd 1473
+954
+4
+egf-jfe 11
+bcif-jfe 27
+bfgb-jfe 1712
+c-jfe 240
+955
+3
+ee-jff 45
+egg-jff 1131
+bfeb-jff 814
+956
+4
+fic-jfg 86
+ghc-jfg 17
+bccb-jfg 1004
+ega-jfg 883
+957
+5
+eij-jfh 56
+ddc-jfh 5
+fdf-jfh 335
+bffj-jfh 237
+gfb-jfh 1357
+958
+4
+eib-jfi 14
+dii-jfi 88
+befa-jfi 1018
+bbj-jfi 869
+959
+5
+bcc-jfj 57
+jfa-jfj 31
+bcaj-jfj 31
+bdhe-jfj 1856
+eac-jfj 15
+960
+5
+fdf-jga 62
+bagg-jga 81
+bfab-jga 19
+bfcd-jga 1824
+bfcf-jga 4
+961
+1
+ecd-jgb 1992
+962
+5
+ied-jgc 358
+babj-jgc 318
+bba-jgc 139
+cfa-jgc 99
+ibd-jgc 1075
+963
+1
+ghb-jgd 1992
+964
+5
+dda-jge 60
+bagf-jge 140
+gbf-jge 120
+bedj-jge 362
+bcgj-jge 1307
+965
+5
+fbf-jgf 75
+hhj-jgf 529
+i-jgf 1210
+fjd-jgf 50
+bhg-jgf 126
+966
+3
+cfd-jgg 236
+bajc-jgg 776
+heh-jgg 979
+967
+2
+jcb-jgh 866
+dfc-jgh 1125
+968
+2
+gjf-jgi 33
+iae-jgi 1958
+969
+0
+970
+4
+efh-jha 35
+jia-jha 1084
+bea-jha 71
+ghd-jha 800
+971
+1
+ejg-jhb 1992
+972
+4
+eej-jhc 1270
+ced-jhc 375
+gga-jhc 144
+hei-jhc 202
+973
+2
+geb-jhd 231
+gba-jhd 1760
+974
+3
+jae-jhe 474
+jih-jhe 189
+bbai-jhe 1328
+975
+4
+gid-jhf 6
+bajj-jhf 1253
+fch-jhf 143
+behe-jhf 587
+976
+2
+fbi-jhg 337
+hde-jhg 1654
+977
+3
+gab-jhh 387
+gej-jhh 110
+bfia-jhh 1494
+978
+3
+fca-jhi 58
+bagi-jhi 410
+bcj-jhi 1523
+979
+1
+eei-jhj 1992
+980
+7
+hdd-jia 41
+baac-jia 184
+bje-jia 143
+baca-jia 41
+bded-jia 1191
+ecc-jia 205
+ddg-jia 184
+981
+4
+bab-jib 366
+gda-jib 157
+iac-jib 943
+bjf-jib 524
+982
+2
+hff-jic 234
+igj-jic 1757
+983
+4
+jff-jid 612
+cag-jid 153
+bdgd-jid 183
+bgfj-jid 1041
+984
+3
+hdb-jie 346
+baih-jie 1385
+cij-jie 259
+985
+4
+hah-jif 996
+dge-jif 217
+bb-jif 760
+bdih-jif 18
+986
+3
+bbe-jig 147
+bafi-jig 332
+gha-jig 1512
+987
+3
+jhi-jih 362
+gfi-jih 362
+bfa-jih 1267
+988
+4
+bjh-jii 34
+ihe-jii 34
+ddf-jii 1717
+cei-jii 206
+989
+2
+ge-jij 1494
+bah-jij 498
+990
+1
+idh-jja 1992
+991
+6
+ihg-jjb 79
+bdi-jjb 318
+jif-jjb 159
+hja-jjb 956
+ieg-jjb 159
+cjc-jjb 318
+992
+3
+jhg-jjc 177
+jbg-jjc 295
+bcgb-jjc 1519
+993
+1
+daj-jjd 1992
+994
+5
+hdd-jje 45
+badd-jje 158
+baig-jje 747
+bbcg-jje 973
+ej-jje 67
+995
+2
+hja-jjf 1645
+ccf-jjf 346
+996
+2
+efa-jjg 664
+gfc-jjg 1328
+997
+1
+geh-jjh 1992
+998
+2
+hef-jji 1826
+j-jji 166
+999
+3
+edg-jjj 50
+baea-jjj 45
+bcci-jjj 1895
+1000
+1
+fgi-baaa 1992
+1001
+5
+jeg-baab 1067
+ifd-baab 640
+bbdf-baab 35
+bc-baab 71
+efi-baab 177
+1002
+2
+hig-baac 289
+jbh-baac 1702
+1003
+4
+ehj-baad 100
+jcd-baad 100
+bbbh-baad 403
+ceb-baad 1387
+1004
+2
+dib-baae 170
+eje-baae 1821
+1005
+2
+baae-baaf 1752
+bdej-baaf 239
+1006
+5
+fc-baag 35
+cdc-baag 88
+jci-baag 1600
+beja-baag 17
+ffj-baag 249
+1007
+2
+baef-baah 1838
+jab-baah 153
+1008
+4
+dgd-baai 132
+bacb-baai 584
+baha-baai 1062
+igj-baai 212
+1009
+1
+ceb-baaj 1992
+1010
+5
+dfi-baba 104
+haj-baba 52
+bbfb-baba 104
+ehi-baba 1703
+jdf-baba 26
+1011
+3
+ggi-babb 111
+edh-babb 83
+djh-babb 1797
+1012
+5
+jga-babc 108
+ege-babc 43
+beag-babc 1299
+baif-babc 173
+if-babc 368
+1013
+3
+gec-babd 202
+bddi-babd 33
+dfe-babd 1755
+1014
+4
+cjc-babe 12
+ebj-babe 1725
+ije-babe 215
+dbj-babe 38
+1015
+2
+ceg-babf 77
+begj-babf 1914
+1016
+3
+bbdj-babg 14
+beba-babg 1150
+bdhd-babg 827
+1017
+2
+cbg-babh 1026
+baia-babh 965
+1018
+3
+gd-babi 32
+cdb-babi 576
+baij-babi 1382
+1019
+3
+bbcg-babj 853
+fdc-babj 996
+bfib-babj 142
+1020
+1
+igh-baca 1992
+1021
+6
+jg-bacb 514
+heb-bacb 257
+jce-bacb 96
+jhb-bacb 32
+bcje-bacb 481
+bgbj-bacb 610
+1022
+3
+feg-bacc 35
+hbc-bacc 93
+gdb-bacc 1863
+1023
+1
+jgf-bacd 1992
+1024
+2
+dhb-bace 871
+bbcd-bace 1120
+1025
+1
+ifd-bacf 1992
+1026
+2
+cja-bacg 796
+bgdb-bacg 1195
+1027
+3
+fdd-bach 83
+baag-bach 166
+bih-bach 1743
+1028
+2
+egi-baci 87
+ejc-baci 1904
+1029
+4
+ib-bacj 5
+bada-bacj 119
+iha-bacj 1789
+ibj-bacj 77
+1030
+4
+bbcf-bada 664
+hej-bada 442
+gdb-bada 700
+ecj-bada 184
+1031
+3
+bdf-badb 1340
+dcd-badb 217
+bddf-badb 434
+1032
+3
+cad-badc 56
+hfg-badc 227
+ifg-badc 1707
+1033
+3
+jc-badd 83
+bcac-badd 1826
+gh-badd 83
+1034
+1
+ega-bade 1992
+1035
+1
+fgh-badf 1992
+1036
+2
+jhi-badg 1106
+bbbf-badg 885
+1037
+2
+fhe-badh 498
+bbgj-badh 1494
+1038
+2
+ghg-badi 34
+bbdi-badi 1957
+1039
+4
+ff-badj 56
+ijj-badj 56
+bbhf-badj 169
+bjf-badj 1709
+1040
+4
+jgg-baea 76
+cid-baea 229
+he-baea 76
+hdd-baea 1608
+1041
+4
+iag-baeb 157
+fd-baeb 29
+bbaf-baeb 69
+bdcj-baeb 1735
+1042
+5
+jha-baec 1109
+bcac-baec 9
+hbg-baec 614
+jaa-baec 237
+ccb-baec 19
+1043
+1
+djc-baed 1992
+1044
+1
+baeg-baee 1992
+1045
+4
+efd-baef 351
+bdbf-baef 117
+fi-baef 1406
+gj-baef 117
+1046
+4
+hhd-baeg 391
+jdc-baeg 424
+baic-baeg 32
+bcef-baeg 1142
+1047
+2
+dfd-baeh 1494
+ihg-baeh 498
+1048
+4
+chj-baei 24
+bhc-baei 73
+bagg-baei 867
+bcig-baei 1026
+1049
+4
+bbhh-baej 1180
+hih-baej 3
+bdij-baej 3
+bdfj-baej 804
+1050
+5
+hgc-bafa 45
+babe-bafa 709
+jdj-bafa 389
+cff-bafa 68
+dgj-bafa 778
+1051
+4
+baah-bafb 138
+bcji-bafb 23
+bbbd-bafb 498
+gdg-bafb 1331
+1052
+4
+jce-bafc 33
+hii-bafc 1620
+gfg-bafc 135
+bbef-bafc 202
+1053
+2
+fei-bafd 132
+cfa-bafd 1859
+1054
+3
+dhc-bafe 40
+fdd-bafe 1910
+bgf-bafe 40
+1055
+2
+hcj-baff 26
+bfif-baff 1965
+1056
+1
+fdd-bafg 1992
+1057
+1
+jbd-bafh 1992
+1058
+4
+bhj-bafi 1099
+chi-bafi 412
+bbgf-bafi 68
+bag-bafi 412
+1059
+3
+gfi-bafj 29
+bcag-bafj 14
+hef-bafj 1948
+1060
+2
+ded-baga 195
+bbag-baga 1796
+1061
+2
+fhb-bagb 1985
+bcgd-bagb 6
+1062
+1
+gie-bagc 1992
+1063
+3
+beg-bagd 351
+hgd-bagd 1406
+ibg-bagd 234
+1064
+4
+jfb-bage 162
+babh-bage 18
+bbcj-bage 6
+jhf-bage 1806
+1065
+2
+bgd-bagf 169
+bede-bagf 1822
+1066
+5
+jid-bagg 41
+baie-bagg 335
+bbgh-bagg 20
+fcb-bagg 1153
+hgb-bagg 440
+1067
+6
+jbd-bagh 20
+ijg-bagh 290
+cgf-bagh 643
+eab-bagh 166
+cde-bagh 228
+gje-bagh 643
+1068
+3
+ehh-bagi 137
+ggh-bagi 137
+bcac-bagi 1717
+1069
+3
+jhd-bagj 1965
+bad-bagj 13
+bgj-bagj 13
+1070
+2
+bcgf-baha 590
+bgcc-baha 1401
+1071
+2
+cgc-bahb 398
+bgah-bahb 1593
+1072
+1
+hbg-bahc 1992
+1073
+6
+efa-bahd 78
+dii-bahd 32
+bcgf-bahd 6
+behd-bahd 65
+beij-bahd 282
+dbb-bahd 1525
+1074
+1
+bcdi-bahe 1992
+1075
+2
+bagd-bahf 1494
+ffi-bahf 498
+1076
+2
+bgc-bahg 12
+gjc-bahg 1979
+1077
+4
+hea-bahh 313
+bahg-bahh 853
+bedg-bahh 768
+jab-bahh 56
+1078
+4
+hab-bahi 202
+ceh-bahi 144
+ghc-bahi 1558
+ia-bahi 86
+1079
+2
+ghi-bahj 853
+fbe-bahj 1138
+1080
+3
+jif-baia 98
+gaf-baia 24
+bgg-baia 1869
+1081
+2
+iac-baib 1212
+hih-baib 779
+1082
+3
+babi-baic 498
+iaa-baic 996
+bcgg-baic 498
+1083
+2
+ib-baid 664
+bejd-baid 1328
+1084
+5
+iaf-baie 641
+bade-baie 472
+chg-baie 236
+efc-baie 405
+bai-baie 236
+1085
+1
+jcb-baif 1992
+1086
+4
+edd-baig 686
+jgh-baig 446
+ihc-baig 171
+hif-baig 686
+1087
+6
+gcf-baih 358
+bbgd-baih 119
+eea-baih 79
+bcej-baih 119
+becj-baih 1235
+bcgf-baih 79
+1088
+2
+ffj-baii 442
+bbab-baii 1549
+1089
+3
+bfh-baij 16
+ife-baij 1721
+bha-baij 253
+1090
+4
+bif-baja 365
+cgg-baja 91
+bcfj-baja 968
+cdh-baja 566
+1091
+3
+ji-bajb 609
+bdfg-bajb 365
+bafj-bajb 1016
+1092
+3
+hih-bajc 128
+bbae-bajc 835
+dhb-bajc 1028
+1093
+4
+hha-bajd 1417
+hhg-bajd 114
+edc-bajd 153
+bfjc-bajd 306
+1094
+4
+iej-baje 670
+hhe-baje 87
+bdab-baje 145
+gfi-baje 1088
+1095
+5
+eca-bajf 10
+jcd-bajf 124
+jeb-bajf 31
+bbgi-bajf 1794
+bcje-bajf 31
+1096
+2
+cgf-bajg 996
+fi-bajg 996
+1097
+2
+hba-bajh 1115
+bia-bajh 876
+1098
+2
+baje-baji 1981
+bhf-baji 10
+1099
+3
+ejh-bajj 10
+eci-bajj 80
+bajf-bajj 1901
+1100
+3
+ghb-bbaa 6
+bcfa-bbaa 1965
+beeg-bbaa 19
+1101
+2
+cde-bbab 69
+bbfc-bbab 1922
+1102
+4
+dce-bbac 1522
+iif-bbac 181
+fed-bbac 113
+bejd-bbac 174
+1103
+2
+bbag-bbad 919
+jbh-bbad 1072
+1104
+6
+gid-bbae 107
+eah-bbae 35
+bcfc-bbae 89
+hg-bbae 71
+gc-bbae 1543
+bgba-bbae 143
+1105
+2
+eff-bbaf 1726
+hhg-bbaf 265
+1106
+1
+gff-bbag 1992
+1107
+4
+cja-bbah 681
+fhe-bbah 445
+beci-bbah 812
+bfjh-bbah 52
+1108
+3
+bafj-bbai 73
+bhj-bbai 1770
+bdch-bbai 147
+1109
+1
+ich-bbaj 1992
+1110
+5
+hde-bbba 22
+babb-bbba 55
+cgd-bbba 133
+hdb-bbba 1669
+jid-bbba 111
+1111
+1
+hed-bbbb 1992
+1112
+0
+1113
+4
+icb-bbbd 26
+baec-bbbd 982
+bbh-bbbd 159
+bgab-bbbd 823
+1114
+3
+bcc-bbbe 467
+bccj-bbbe 1213
+dhj-bbbe 311
+1115
+3
+gej-bbbf 398
+faj-bbbf 398
+cef-bbbf 1195
+1116
+3
+ief-bbbg 1191
+baci-bbbg 41
+icb-bbbg 759
+1117
+2
+ehg-bbbh 1494
+bagc-bbbh 498
+1118
+2
+bac-bbbi 1810
+gee-bbbi 181
+1119
+3
+big-bbbj 284
+bahe-bbbj 474
+bgdj-bbbj 1233
+1120
+2
+bdd-bbca 142
+jcc-bbca 1849
+1121
+6
+djj-bbcb 408
+ccc-bbcb 24
+jfd-bbcb 624
+fbc-bbcb 72
+iee-bbcb 240
+hih-bbcb 624
+1122
+2
+hbd-bbcc 1875
+bgf-bbcc 116
+1123
+3
+baii-bbcd 996
+jjd-bbcd 135
+gje-bbcd 860
+1124
+2
+iff-bbce 1349
+gde-bbce 642
+1125
+2
+bbae-bbcf 24
+fhc-bbcf 1967
+1126
+3
+fcg-bbcg 166
+bdid-bbcg 539
+ccj-bbcg 1286
+1127
+1
+icb-bbch 1992
+1128
+2
+bie-bbci 79
+babh-bbci 1912
+1129
+2
+hee-bbcj 1636
+bbbb-bbcj 355
+1130
+3
+jde-bbda 1832
+ehh-bbda 53
+bbji-bbda 106
+1131
+5
+bbf-bbdb 8
+hjj-bbdb 159
+idc-bbdb 779
+bfdj-bbdb 159
+ifa-bbdb 885
+1132
+1
+jh-bbdc 1992
+1133
+5
+fgh-bbdd 83
+gid-bbdd 274
+bci-bbdd 1121
+eii-bbdd 226
+beb-bbdd 286
+1134
+1
+jif-bbde 1992
+1135
+3
+baed-bbdf 275
+gbi-bbdf 1624
+gbc-bbdf 91
+1136
+3
+bhc-bbdg 664
+bid-bbdg 139
+bgdc-bbdg 1188
+1137
+3
+eef-bbdh 73
+bcjd-bbdh 516
+ghb-bbdh 1401
+1138
+3
+baee-bbdi 434
+hbh-bbdi 1430
+bcba-bbdi 126
+1139
+1
+ghi-bbdj 1992
+1140
+3
+dfh-bbea 60
+cga-bbea 362
+df-bbea 1569
+1141
+5
+ji-bbeb 83
+bbde-bbeb 358
+ihd-bbeb 1040
+bbae-bbeb 472
+bffc-bbeb 35
+1142
+2
+cai-bbec 18
+bcie-bbec 1973
+1143
+1
+jc-bbed 1992
+1144
+2
+gcj-bbee 112
+bdee-bbee 1879
+1145
+4
+badd-bbef 227
+fjf-bbef 80
+ce-bbef 53
+fjb-bbef 1631
+1146
+3
+eca-bbeg 932
+bcjg-bbeg 762
+bgbc-bbeg 296
+1147
+2
+ghj-bbeh 124
+eg-bbeh 1867
+1148
+2
+gej-bbei 1209
+eif-bbei 782
+1149
+3
+fci-bbej 310
+bcbb-bbej 1361
+fja-bbej 319
+1150
+2
+jf-bbfa 64
+bacc-bbfa 1927
+1151
+5
+fgd-bbfb 29
+bbgg-bbfb 654
+baji-bbfb 1085
+ghj-bbfb 44
+bdah-bbfb 178
+1152
+2
+ibh-bbfc 1909
+bfej-bbfc 83
+1153
+4
+eaa-bbfd 1258
+ebc-bbfd 26
+bdcj-bbfd 602
+bdje-bbfd 104
+1154
+2
+chg-bbfe 156
+bbgi-bbfe 1835
+1155
+6
+fcc-bbff 712
+jig-bbff 12
+dbh-bbff 96
+ihi-bbff 325
+bdjd-bbff 712
+hg-bbff 132
+1156
+4
+fea-bbfg 181
+eee-bbfg 66
+bcjh-bbfg 8
+bfee-bbfg 1735
+1157
+3
+efd-bbfh 30
+gec-bbfh 275
+bbjg-bbfh 1685
+1158
+3
+bbej-bbfi 1599
+bace-bbfi 14
+bfhb-bbfi 377
+1159
+4
+babh-bbfj 45
+cbc-bbfj 352
+ifc-bbfj 1562
+cje-bbfj 30
+1160
+2
+jbc-bbga 1734
+eji-bbga 257
+1161
+4
+iic-bbgb 114
+jff-bbgb 146
+hi-bbgb 1436
+hgd-bbgb 293
+1162
+1
+bafa-bbgc 1992
+1163
+1
+bgag-bbgd 1992
+1164
+4
+ddd-bbge 140
+eb-bbge 865
+bbff-bbge 945
+ihg-bbge 40
+1165
+1
+fcj-bbgf 1992
+1166
+4
+bcde-bbgg 466
+bdai-bbgg 1059
+ca-bbgg 169
+gfh-bbgg 296
+1167
+1
+bbei-bbgh 1992
+1168
+4
+jab-bbgi 9
+bdgi-bbgi 27
+bfi-bbgi 100
+jgi-bbgi 1854
+1169
+4
+bbcj-bbgj 175
+hjc-bbgj 29
+eah-bbgj 820
+bejh-bbgj 966
+1170
+2
+fbe-bbha 218
+begi-bbha 1773
+1171
+2
+djd-bbhb 52
+iec-bbhb 1939
+1172
+3
+jdi-bbhc 86
+cbh-bbhc 1732
+bca-bbhc 173
+1173
+4
+ece-bbhd 114
+bced-bbhd 344
+j-bbhd 900
+bdb-bbhd 632
+1174
+4
+fh-bbhe 49
+gfe-bbhe 172
+bbgb-bbhe 1573
+id-bbhe 196
+1175
+3
+dia-bbhf 1893
+baif-bbhf 56
+bfec-bbhf 42
+1176
+0
+1177
+2
+bcjf-bbhh 148
+beee-bbhh 1843
+1178
+2
+hgi-bbhi 1757
+bfge-bbhi 234
+1179
+1
+c-bbhj 1992
+1180
+3
+ij-bbia 312
+ei-bbia 820
+edb-bbia 859
+1181
+1
+bdi-bbib 1992
+1182
+2
+iab-bbic 1931
+befc-bbic 60
+1183
+1
+bbdd-bbid 1992
+1184
+3
+def-bbie 1267
+dee-bbie 603
+bbhj-bbie 120
+1185
+2
+bij-bbif 234
+dcj-bbif 1757
+1186
+1
+cig-bbig 1992
+1187
+2
+bfd-bbih 199
+gc-bbih 1792
+1188
+2
+jhc-bbii 22
+bfgf-bbii 1969
+1189
+3
+beci-bbij 138
+bbdf-bbij 1806
+cdd-bbij 46
+1190
+2
+bacb-bbja 378
+fec-bbja 1613
+1191
+2
+gje-bbjb 498
+ffj-bbjb 1494
+1192
+3
+bbha-bbjc 104
+bhc-bbjc 104
+ii-bbjc 1782
+1193
+1
+jig-bbjd 1992
+1194
+1
+cbd-bbje 1992
+1195
+4
+dji-bbjf 16
+fcj-bbjf 42
+jbg-bbjf 529
+haj-bbjf 1403
+1196
+3
+hjb-bbjg 21
+bagj-bbjg 1591
+bbfe-bbjg 379
+1197
+2
+jih-bbjh 298
+bcjb-bbjh 1693
+1198
+3
+bch-bbji 606
+hhi-bbji 822
+ijh-bbji 562
+1199
+1
+cig-bbjj 1992
+1200
+2
+bbie-bcaa 217
+bgb-bcaa 1774
+1201
+4
+jjj-bcab 362
+dfi-bcab 362
+bchi-bcab 543
+gce-bcab 724
+1202
+3
+fa-bcac 1452
+hac-bcac 373
+had-bcac 166
+1203
+3
+hcd-bcad 14
+bdf-bcad 620
+bgcb-bcad 1356
+1204
+2
+ibg-bcae 1474
+bdaj-bcae 517
+1205
+3
+jh-bcaf 10
+bbha-bcaf 487
+bcda-bcaf 1494
+1206
+2
+babb-bcag 144
+bgch-bcag 1847
+1207
+1
+eed-bcah 1992
+1208
+1
+bbcj-bcai 1992
+1209
+1
+bbji-bcaj 1992
+1210
+2
+ejb-bcba 1328
+gfc-bcba 664
+1211
+3
+hag-bcbb 133
+bdbj-bcbb 815
+die-bcbb 1042
+1212
+5
+bbai-bcbc 118
+bcij-bcbc 92
+dbe-bcbc 303
+bafj-bcbc 1358
+ef-bcbc 118
+1213
+1
+baca-bcbd 1992
+1214
+2
+gda-bcbe 711
+bdd-bcbe 1280
+1215
+2
+igc-bcbf 853
+bged-bcbf 1138
+1216
+3
+iea-bcbg 1576
+behc-bcbg 284
+dbh-bcbg 131
+1217
+1
+bhg-bcbh 1992
+1218
+3
+jcf-bcbi 332
+jdd-bcbi 1411
+bfcf-bcbi 249
+1219
+3
+hgc-bcbj 498
+bcch-bcbj 249
+hjj-bcbj 1245
+1220
+4
+fb-bcca 29
+bdhj-bcca 29
+jfe-bcca 1896
+behj-bcca 35
+1221
+3
+bcag-bccb 30
+egb-bccb 875
+cid-bccb 1086
+1222
+1
+edj-bccc 1992
+1223
+3
+ced-bccd 77
+behg-bccd 609
+bfed-bccd 1305
+1224
+2
+eci-bcce 1362
+iib-bcce 629
+1225
+2
+bajb-bccf 135
+bfhd-bccf 1856
+1226
+2
+badf-bccg 448
+begg-bccg 1543
+1227
+1
+hjg-bcch 1992
+1228
+2
+hjd-bcci 1843
+bcae-bcci 148
+1229
+6
+hci-bccj 462
+dci-bccj 51
+cfg-bccj 346
+bdeb-bccj 12
+gbe-bccj 1002
+bg-bccj 115
+1230
+3
+dh-bcda 1494
+beii-bcda 55
+ijd-bcda 442
+1231
+3
+baci-bcdb 95
+bddd-bcdb 28
+bbeb-bcdb 1868
+1232
+4
+ghb-bcdc 23
+bfga-bcdc 34
+bcj-bcdc 173
+bccd-bcdc 1760
+1233
+3
+bbfh-bcdd 309
+bagh-bcdd 1283
+bdid-bcdd 398
+1234
+5
+gic-bcde 239
+cba-bcde 239
+baji-bcde 637
+bcha-bcde 159
+beje-bcde 717
+1235
+1
+bbef-bcdf 1992
+1236
+3
+jje-bcdg 296
+chc-bcdg 426
+hjc-bcdg 1268
+1237
+2
+faf-bcdh 1422
+bchf-bcdh 569
+1238
+3
+cfg-bcdi 1221
+becb-bcdi 53
+hee-bcdi 717
+1239
+1
+fdb-bcdj 1992
+1240
+1
+becb-bcea 1992
+1241
+2
+idj-bceb 1826
+bfcf-bceb 166
+1242
+1
+dgj-bcec 1992
+1243
+1
+bcjd-bced 1992
+1244
+6
+gdf-bcee 209
+ejh-bcee 209
+bdca-bcee 104
+bdja-bcee 629
+ffd-bcee 419
+iai-bcee 419
+1245
+2
+fbj-bcef 1867
+fbb-bcef 124
+1246
+1
+cca-bceg 1992
+1247
+4
+bge-bceh 68
+bbdf-bceh 755
+bdae-bceh 1030
+fab-bceh 137
+1248
+1
+bci-bcei 1992
+1249
+3
+jfh-bcej 1328
+ef-bcej 166
+gif-bcej 498
+1250
+2
+djh-bcfa 60
+jfh-bcfa 1931
+1251
+0
+1252
+2
+jbj-bcfc 284
+cig-bcfc 1707
+1253
+3
+jeh-bcfd 68
+beie-bcfd 68
+idg-bcfd 1854
+1254
+1
+jh-bcfe 1992
+1255
+4
+ddd-bcff 127
+hfh-bcff 381
+iie-bcff 360
+begg-bcff 1123
+1256
+2
+fjj-bcfg 1826
+bcje-bcfg 166
+1257
+1
+egd-bcfh 1992
+1258
+1
+ihe-bcfi 1992
+1259
+4
+jii-bcfj 20
+cig-bcfj 80
+bchb-bcfj 1790
+ibc-bcfj 100
+1260
+1
+ghc-bcga 1992
+1261
+2
+eai-bcgb 1453
+jae-bcgb 538
+1262
+2
+bahc-bcgc 166
+beih-bcgc 1826
+1263
+1
+gba-bcgd 1992
+1264
+3
+baih-bcge 1411
+bddi-bcge 166
+bgh-bcge 415
+1265
+1
+bbga-bcgf 1992
+1266
+2
+beej-bcgg 12
+bfhf-bcgg 1979
+1267
+2
+cbj-bcgh 257
+bdjg-bcgh 1734
+1268
+4
+bfh-bcgi 76
+hce-bcgi 791
+bge-bcgi 280
+fca-bcgi 842
+1269
+3
+bdbg-bcgj 650
+beae-bcgj 1025
+bfci-bcgj 315
+1270
+2
+dgg-bcha 442
+deh-bcha 1549
+1271
+2
+hhd-bchb 265
+bdfj-bchb 1726
+1272
+2
+bdb-bchc 181
+cej-bchc 1810
+1273
+2
+jbd-bchd 1045
+bdaf-bchd 946
+1274
+2
+gcd-bche 996
+becg-bche 996
+1275
+2
+hdj-bchf 312
+bfag-bchf 1680
+1276
+4
+hhj-bchg 314
+hga-bchg 419
+idc-bchg 73
+bebi-bchg 1184
+1277
+5
+cjb-bchh 86
+bcjb-bchh 144
+bcjj-bchh 1097
+bbij-bchh 375
+hhi-bchh 288
+1278
+2
+bcdj-bchi 1120
+ifh-bchi 871
+1279
+1
+jcd-bchj 1992
+1280
+5
+hid-bcia 153
+hhg-bcia 153
+ibc-bcia 76
+baid-bcia 153
+bgec-bcia 1455
+1281
+4
+bdcc-bcib 22
+bje-bcib 841
+bfgd-bcib 863
+dde-bcib 265
+1282
+0
+1283
+1
+bede-bcid 1992
+1284
+3
+bbgh-bcie 137
+bebd-bcie 15
+eic-bcie 1838
+1285
+2
+jhh-bcif 498
+bdjb-bcif 1494
+1286
+1
+fae-bcig 1992
+1287
+1
+cae-bcih 1992
+1288
+3
+cga-bcii 737
+bafh-bcii 221
+jeh-bcii 1032
+1289
+1
+ebd-bcij 1992
+1290
+3
+ica-bcja 151
+hhd-bcja 1164
+bbfi-bcja 675
+1291
+2
+bcaa-bcjb 679
+dba-bcjb 1312
+1292
+2
+bbdg-bcjc 996
+bbaf-bcjc 996
+1293
+1
+hdf-bcjd 1992
+1294
+1
+bbfh-bcje 1992
+1295
+4
+dde-bcjf 637
+fda-bcjf 19
+bdjc-bcjf 1095
+bedc-bcjf 239
+1296
+2
+jce-bcjg 259
+eii-bcjg 1732
+1297
+1
+dch-bcjh 1992
+1298
+2
+ida-bcji 1810
+dg-bcji 181
+1299
+2
+fig-bcjj 786
+bfgi-bcjj 1205
+1300
+3
+eba-bdaa 163
+gcj-bdaa 300
+edh-bdaa 1528
+1301
+2
+iji-bdab 1146
+bdib-bdab 845
+1302
+2
+gba-bdac 849
+cgb-bdac 1142
+1303
+3
+dja-bdad 664
+ch-bdad 1162
+jdi-bdad 166
+1304
+2
+bbif-bdae 960
+bahi-bdae 1031
+1305
+1
+ga-bdaf 1992
+1306
+1
+badg-bdag 1992
+1307
+2
+ibd-bdah 1267
+beeg-bdah 724
+1308
+2
+bajh-bdai 637
+baij-bdai 1354
+1309
+2
+je-bdaj 948
+hed-bdaj 1043
+1310
+1
+bbch-bdba 1992
+1311
+1
+jeh-bdbb 1992
+1312
+1
+bcgf-bdbc 1992
+1313
+0
+1314
+1
+hh-bdbe 1992
+1315
+1
+hf-bdbf 1992
+1316
+3
+hdj-bdbg 633
+ddc-bdbg 611
+bfii-bdbg 747
+1317
+1
+jhg-bdbh 1992
+1318
+2
+dbc-bdbi 1579
+bfbc-bdbi 412
+1319
+4
+bbci-bdbj 149
+jfa-bdbj 664
+dhe-bdbj 318
+gid-bdbj 860
+1320
+1
+fej-bdca 1992
+1321
+2
+cii-bdcb 410
+ibj-bdcb 1581
+1322
+2
+iig-bdcc 254
+bdhf-bdcc 1737
+1323
+2
+bbcb-bdcd 825
+bdgd-bdcd 1166
+1324
+1
+jfc-bdce 1992
+1325
+1
+faa-bdcf 1992
+1326
+1
+bce-bdcg 1992
+1327
+2
+hgc-bdch 1263
+cac-bdch 728
+1328
+2
+efh-bdci 1585
+ci-bdci 406
+1329
+2
+feb-bdcj 860
+jjc-bdcj 1131
+1330
+2
+efh-bdda 1667
+bebj-bdda 324
+1331
+1
+bbbg-bddb 1992
+1332
+0
+1333
+2
+bcbf-bddd 1258
+daa-bddd 733
+1334
+2
+jif-bdde 1726
+bid-bdde 265
+1335
+3
+gig-bddf 181
+bbbg-bddf 724
+bbcc-bddf 1086
+1336
+1
+badj-bddg 1992
+1337
+1
+bffa-bddh 1992
+1338
+1
+fjg-bddi 1992
+1339
+3
+bcaf-bddj 921
+bj-bddj 29
+bbbe-bddj 1040
+1340
+1
+dc-bdea 1992
+1341
+2
+jaf-bdeb 695
+bdif-bdeb 1296
+1342
+4
+ida-bdec 106
+cca-bdec 42
+bfeg-bdec 10
+bfaf-bdec 1832
+1343
+2
+bbbi-bded 135
+befd-bded 1856
+1344
+3
+bcie-bdee 557
+gii-bdee 1235
+cgc-bdee 199
+1345
+2
+hbe-bdef 1774
+bbeg-bdef 217
+1346
+3
+hdh-bdeg 796
+iai-bdeg 398
+bgfb-bdeg 796
+1347
+2
+cfc-bdeh 1494
+ecj-bdeh 498
+1348
+1
+bccd-bdei 1992
+1349
+2
+jag-bdej 1115
+bfaa-bdej 876
+1350
+3
+jjf-bdfa 120
+hdb-bdfa 1116
+bje-bdfa 754
+1351
+2
+icf-bdfb 24
+ijg-bdfb 1967
+1352
+1
+hdc-bdfc 1992
+1353
+2
+bec-bdfd 1668
+efb-bdfd 323
+1354
+2
+gdf-bdfe 1225
+bfeg-bdfe 766
+1355
+1
+jga-bdff 1992
+1356
+2
+bib-bdfg 153
+bdic-bdfg 1838
+1357
+2
+bacc-bdfh 1408
+bege-bdfh 583
+1358
+2
+jcf-bdfi 50
+becc-bdfi 1941
+1359
+3
+bbjf-bdfj 406
+cdf-bdfj 6
+hae-bdfj 1578
+1360
+4
+ihf-bdga 1020
+begc-bdga 170
+ehh-bdga 279
+bafa-bdga 522
+1361
+3
+hig-bdgb 120
+fca-bdgb 25
+bead-bdgb 1846
+1362
+2
+bcbd-bdgc 11
+eba-bdgc 1980
+1363
+2
+gga-bdgd 132
+gbc-bdgd 1859
+1364
+1
+baej-bdge 1992
+1365
+3
+gdb-bdgf 7
+bfbe-bdgf 1649
+fcc-bdgf 334
+1366
+1
+fbh-bdgg 1992
+1367
+2
+ghj-bdgh 1328
+eea-bdgh 664
+1368
+2
+bdj-bdgi 1177
+bdjb-bdgi 814
+1369
+2
+hhh-bdgj 398
+bgdi-bdgj 1593
+1370
+3
+gfj-bdha 221
+daj-bdha 442
+behi-bdha 1328
+1371
+2
+hbh-bdhb 1824
+haf-bdhb 167
+1372
+2
+jei-bdhc 4
+bahg-bdhc 1987
+1373
+2
+bcbg-bdhd 1542
+bae-bdhd 449
+1374
+4
+bagb-bdhe 1601
+jjj-bdhe 228
+baia-bdhe 16
+ecc-bdhe 145
+1375
+2
+bcdh-bdhf 138
+bfae-bdhf 1853
+1376
+1
+efd-bdhg 1992
+1377
+1
+bdfd-bdhh 1992
+1378
+3
+ihe-bdhi 180
+ccf-bdhi 1691
+hb-bdhi 120
+1379
+1
+iah-bdhj 1992
+1380
+2
+jgg-bdia 1376
+bgff-bdia 615
+1381
+1
+bcfi-bdib 1992
+1382
+1
+hhg-bdic 1992
+1383
+1
+beh-bdid 1992
+1384
+1
+igc-bdie 1992
+1385
+2
+fgc-bdif 1233
+f-bdif 758
+1386
+2
+bajc-bdig 18
+bdge-bdig 1973
+1387
+1
+ijf-bdih 1992
+1388
+2
+cch-bdii 1957
+fbg-bdii 34
+1389
+1
+fbg-bdij 1992
+1390
+2
+bbhb-bdja 1924
+bdeb-bdja 67
+1391
+1
+bchd-bdjb 1992
+1392
+2
+ifh-bdjc 782
+bfbb-bdjc 1209
+1393
+1
+eca-bdjd 1992
+1394
+3
+bacj-bdje 1673
+cge-bdje 159
+bbjb-bdje 159
+1395
+1
+jig-bdjf 1992
+1396
+1
+bdef-bdjg 1992
+1397
+2
+baj-bdjh 249
+bfdf-bdjh 1743
+1398
+2
+bej-bdji 104
+egb-bdji 1887
+1399
+2
+cb-bdjj 11
+bccf-bdjj 1980
+1400
+2
+bcfj-beaa 1072
+eeb-beaa 919
+1401
+2
+baai-beab 929
+bdde-beab 1062
+1402
+0
+1403
+2
+bib-bead 1644
+bafg-bead 347
+1404
+1
+bdch-beae 1992
+1405
+1
+geb-beaf 1992
+1406
+1
+cci-beag 1992
+1407
+3
+jie-beah 153
+bche-beah 357
+bgfc-beah 1481
+1408
+1
+ida-beai 1992
+1409
+2
+bcea-beaj 132
+dea-beaj 1859
+1410
+3
+bbf-beba 1256
+bbcb-beba 582
+bfg-beba 153
+1411
+1
+bgf-bebb 1992
+1412
+1
+bbah-bebc 1992
+1413
+2
+babc-bebd 117
+bejj-bebd 1874
+1414
+1
+bccd-bebe 1992
+1415
+2
+bbfj-bebf 1810
+ghb-bebf 181
+1416
+1
+idj-bebg 1992
+1417
+2
+bbgc-bebh 996
+dag-bebh 996
+1418
+1
+fad-bebi 1992
+1419
+1
+bbec-bebj 1992
+1420
+2
+ddg-beca 612
+jjf-beca 1379
+1421
+3
+jed-becb 52
+bcg-becb 262
+bfbj-becb 1677
+1422
+2
+bcc-becc 201
+haf-becc 1790
+1423
+2
+fba-becd 666
+bbii-becd 1325
+1424
+1
+fii-bece 1992
+1425
+2
+hce-becf 1593
+fed-becf 398
+1426
+1
+bagi-becg 1992
+1427
+1
+dfj-bech 1992
+1428
+1
+bbgj-beci 1992
+1429
+2
+bdbi-becj 83
+hec-becj 1908
+1430
+3
+bc-beda 62
+bfhh-beda 1042
+cbd-beda 887
+1431
+1
+bebd-bedb 1992
+1432
+2
+baic-bedc 332
+bfaj-bedc 1660
+1433
+1
+ceg-bedd 1992
+1434
+2
+bbda-bede 1844
+hf-bede 147
+1435
+2
+ebh-bedf 1982
+djf-bedf 9
+1436
+2
+gfg-bedg 71
+jbg-bedg 1920
+1437
+2
+baha-bedh 807
+bgai-bedh 1184
+1438
+2
+iib-bedi 1972
+bfba-bedi 19
+1439
+1
+igd-bedj 1992
+1440
+0
+1441
+2
+hcf-beeb 1635
+bbee-beeb 356
+1442
+1
+jba-beec 1992
+1443
+3
+dgj-beed 7
+becd-beed 1258
+bfih-beed 726
+1444
+2
+hhc-beee 265
+eff-beee 1726
+1445
+2
+hhf-beef 181
+icf-beef 1810
+1446
+3
+he-beeg 686
+bdeb-beeg 1217
+befc-beeg 88
+1447
+1
+bdgc-beeh 1992
+1448
+1
+bdcg-beei 1992
+1449
+1
+cge-beej 1992
+1450
+2
+cbc-befa 1779
+ebe-befa 212
+1451
+1
+babd-befb 1992
+1452
+1
+bchf-befc 1992
+1453
+3
+iia-befd 1364
+chj-befd 147
+dci-befd 479
+1454
+1
+fif-befe 1992
+1455
+2
+hc-beff 42
+fid-beff 1949
+1456
+1
+bah-befg 1992
+1457
+1
+heh-befh 1992
+1458
+1
+bahf-befi 1992
+1459
+1
+bdgc-befj 1992
+1460
+1
+gca-bega 1992
+1461
+1
+iie-begb 1992
+1462
+2
+ghf-begc 919
+bgad-begc 1072
+1463
+1
+bdgi-begd 1992
+1464
+2
+babb-bege 1328
+bdci-bege 664
+1465
+1
+dfc-begf 1992
+1466
+2
+ifb-begg 1593
+bfai-begg 398
+1467
+1
+eac-begh 1992
+1468
+1
+cff-begi 1992
+1469
+2
+bbfb-begj 1943
+eef-begj 48
+1470
+3
+bebd-beha 91
+hcj-beha 1501
+cji-beha 398
+1471
+1
+bfdh-behb 1992
+1472
+1
+ifa-behc 1992
+1473
+1
+eda-behd 1992
+1474
+3
+baja-behe 328
+ihd-behe 306
+bgaa-behe 1357
+1475
+1
+hdf-behf 1992
+1476
+1
+iei-behg 1992
+1477
+1
+bcgg-behh 1992
+1478
+2
+bjh-behi 232
+bgde-behi 1759
+1479
+3
+dcd-behj 664
+ihb-behj 332
+dbd-behj 996
+1480
+1
+ffd-beia 1992
+1481
+1
+bdaj-beib 1992
+1482
+3
+bbb-beic 199
+ec-beic 199
+dg-beic 1593
+1483
+2
+bdje-beid 550
+iai-beid 1441
+1484
+1
+cgc-beie 1992
+1485
+3
+hfb-beif 140
+cii-beif 53
+gab-beif 1797
+1486
+2
+bedd-beig 1328
+baf-beig 664
+1487
+2
+dcc-beih 323
+ijd-beih 1668
+1488
+1
+cbe-beii 1992
+1489
+2
+che-beij 44
+bah-beij 1947
+1490
+1
+cid-beja 1992
+1491
+1
+bace-bejb 1992
+1492
+0
+1493
+1
+badc-bejd 1992
+1494
+1
+baag-beje 1992
+1495
+1
+jhi-bejf 1992
+1496
+2
+cha-bejg 332
+bcag-bejg 1660
+1497
+1
+bdaa-bejh 1992
+1498
+2
+ifa-beji 597
+dcf-beji 1394
+1499
+1
+cdg-bejj 1992
+1500
+2
+bhf-bfaa 633
+ccd-bfaa 1358
+1501
+1
+fbi-bfab 1992
+1502
+0
+1503
+1
+jhc-bfad 1992
+1504
+3
+ecc-bfae 971
+bfah-bfae 946
+bai-bfae 74
+1505
+2
+hbb-bfaf 22
+bedh-bfaf 1969
+1506
+2
+jai-bfag 1823
+bdad-bfag 168
+1507
+1
+jbf-bfah 1992
+1508
+1
+bcaj-bfai 1992
+1509
+1
+bcjd-bfaj 1992
+1510
+1
+bdgg-bfba 1992
+1511
+1
+hda-bfbb 1992
+1512
+1
+ijd-bfbc 1992
+1513
+3
+fia-bfbd 1113
+bbjd-bfbd 117
+dcg-bfbd 761
+1514
+1
+behh-bfbe 1992
+1515
+2
+efe-bfbf 1258
+bdga-bfbf 733
+1516
+1
+hih-bfbg 1992
+1517
+0
+1518
+1
+jjc-bfbi 1992
+1519
+1
+beif-bfbj 1992
+1520
+1
+ghc-bfca 1992
+1521
+3
+bbba-bfcb 508
+gfa-bfcb 43
+gaj-bfcb 1439
+1522
+1
+gga-bfcc 1992
+1523
+3
+ggc-bfcd 47
+bdbj-bfcd 1132
+bcdc-bfcd 812
+1524
+1
+jh-bfce 1992
+1525
+1
+bca-bfcf 1992
+1526
+3
+cjc-bfcg 1269
+bfgg-bfcg 134
+bgdj-bfcg 588
+1527
+1
+bafe-bfch 1992
+1528
+1
+fjb-bfci 1992
+1529
+2
+dif-bfcj 1095
+gh-bfcj 896
+1530
+2
+baai-bfda 1955
+bgce-bfda 36
+1531
+1
+iih-bfdb 1992
+1532
+1
+bfbc-bfdc 1992
+1533
+1
+bcgh-bfdd 1992
+1534
+1
+jgf-bfde 1992
+1535
+1
+ddf-bfdf 1992
+1536
+1
+bdfi-bfdg 1992
+1537
+1
+bdec-bfdh 1992
+1538
+2
+ihc-bfdi 269
+fgc-bfdi 1722
+1539
+2
+bddd-bfdj 1757
+dgg-bfdj 234
+1540
+1
+jdg-bfea 1992
+1541
+1
+ggf-bfeb 1992
+1542
+2
+bdge-bfec 996
+edg-bfec 996
+1543
+2
+iia-bfed 1017
+iea-bfed 974
+1544
+2
+dae-bfee 924
+fhi-bfee 1067
+1545
+4
+ied-bfef 1392
+bgaf-bfef 135
+faa-bfef 328
+bgda-bfef 135
+1546
+1
+dfb-bfeg 1992
+1547
+1
+fdc-bfeh 1992
+1548
+1
+cbf-bfei 1992
+1549
+1
+bdia-bfej 1992
+1550
+1
+iab-bffa 1992
+1551
+1
+bda-bffb 1992
+1552
+1
+iai-bffc 1992
+1553
+1
+egi-bffd 1992
+1554
+1
+jai-bffe 1992
+1555
+1
+becg-bfff 1992
+1556
+1
+gci-bffg 1992
+1557
+1
+ghi-bffh 1992
+1558
+1
+ed-bffi 1992
+1559
+1
+eda-bffj 1992
+1560
+2
+dcg-bfga 996
+bfj-bfga 996
+1561
+2
+beif-bfgb 1798
+bcfj-bfgb 193
+1562
+1
+bdac-bfgc 1992
+1563
+1
+ihj-bfgd 1992
+1564
+1
+chj-bfge 1992
+1565
+2
+eig-bfgf 38
+bgga-bfgf 1953
+1566
+1
+ec-bfgg 1992
+1567
+1
+bbie-bfgh 1992
+1568
+3
+fea-bfgi 187
+bgee-bfgi 19
+bgej-bfgi 1784
+1569
+0
+1570
+1
+cga-bfha 1992
+1571
+1
+bhg-bfhb 1992
+1572
+1
+dgd-bfhc 1992
+1573
+1
+bdgb-bfhd 1992
+1574
+1
+bfi-bfhe 1992
+1575
+2
+jjj-bfhf 1903
+ded-bfhf 88
+1576
+2
+ibi-bfhg 368
+bfhi-bfhg 1623
+1577
+1
+ibh-bfhh 1992
+1578
+1
+ice-bfhi 1992
+1579
+2
+gih-bfhj 498
+bejj-bfhj 1494
+1580
+1
+df-bfia 1992
+1581
+1
+bdca-bfib 1992
+1582
+2
+igc-bfic 1113
+bgfg-bfic 878
+1583
+1
+hfa-bfid 1992
+1584
+1
+ceh-bfie 1992
+1585
+2
+dfi-bfif 1952
+caa-bfif 39
+1586
+0
+1587
+1
+cif-bfih 1992
+1588
+2
+edc-bfii 435
+hjg-bfii 1556
+1589
+1
+gih-bfij 1992
+1590
+1
+bie-bfja 1992
+1591
+1
+icj-bfjb 1992
+1592
+1
+bej-bfjc 1992
+1593
+1
+bajd-bfjd 1992
+1594
+1
+bfba-bfje 1992
+1595
+1
+cdg-bfjf 1992
+1596
+1
+bdej-bfjg 1992
+1597
+1
+bcga-bfjh 1992
+1598
+1
+bebd-bfji 1992
+1599
+1
+hhg-bfjj 1992
+1600
+1
+bcdd-bgaa 1992
+1601
+1
+fga-bgab 1992
+1602
+1
+babg-bgac 1992
+1603
+1
+bdba-bgad 1992
+1604
+1
+bajd-bgae 1992
+1605
+1
+beab-bgaf 1992
+1606
+1
+bed-bgag 1992
+1607
+1
+bdhi-bgah 1992
+1608
+1
+baji-bgai 1992
+1609
+1
+egb-bgaj 1992
+1610
+1
+ddd-bgba 1992
+1611
+1
+dib-bgbb 1992
+1612
+1
+bba-bgbc 1992
+1613
+2
+bfb-bgbd 498
+bfje-bgbd 1494
+1614
+1
+bfhe-bgbe 1992
+1615
+1
+bbfa-bgbf 1992
+1616
+1
+dff-bgbg 1992
+1617
+2
+ece-bgbh 516
+bgfh-bgbh 1475
+1618
+1
+bfjc-bgbi 1992
+1619
+1
+cbj-bgbj 1992
+1620
+1
+hjh-bgca 1992
+1621
+1
+icd-bgcb 1992
+1622
+2
+dga-bgcc 1874
+bdbe-bgcc 117
+1623
+0
+1624
+1
+bacd-bgce 1992
+1625
+1
+cib-bgcf 1992
+1626
+1
+cba-bgcg 1992
+1627
+1
+cga-bgch 1992
+1628
+2
+hje-bgci 1780
+bda-bgci 211
+1629
+1
+beeg-bgcj 1992
+1630
+1
+bcai-bgda 1992
+1631
+1
+jdd-bgdb 1992
+1632
+1
+gbb-bgdc 1992
+1633
+3
+bhf-bgdd 164
+ede-bgdd 1804
+bffd-bgdd 23
+1634
+1
+beic-bgde 1992
+1635
+1
+bbia-bgdf 1992
+1636
+1
+baf-bgdg 1992
+1637
+1
+hhh-bgdh 1992
+1638
+2
+jdi-bgdi 249
+bach-bgdi 1743
+1639
+1
+jdb-bgdj 1992
+1640
+1
+bcia-bgea 1992
+1641
+1
+ega-bgeb 1992
+1642
+2
+bacg-bgec 733
+djd-bgec 1258
+1643
+1
+behi-bged 1992
+1644
+1
+hjf-bgee 1992
+1645
+1
+fed-bgef 1992
+1646
+1
+baca-bgeg 1992
+1647
+1
+bece-bgeh 1992
+1648
+1
+bgca-bgei 1992
+1649
+1
+jej-bgej 1992
+1650
+1
+bddj-bgfa 1992
+1651
+1
+bhh-bgfb 1992
+1652
+1
+bfjg-bgfc 1992
+1653
+2
+gif-bgfd 1957
+ddb-bgfd 34
+1654
+1
+bfcf-bgfe 1992
+1655
+1
+bcgh-bgff 1992
+1656
+1
+bce-bgfg 1992
+1657
+1
+bgbi-bgfh 1992
+1658
+1
+bie-bgfi 1992
+1659
+1
+eef-bgfj 1992
+1660
+1
+bdhi-bgga 1992
+1661
+1
+bdhg-bggb 1992
